@@ -1,3 +1,3 @@
 # Índice
 
-- [Introducción](readme.md)
+- [Introducción](README.md)
