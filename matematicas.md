@@ -1,2 +1,3 @@
-# Matemáticas
+# Secuencias del área de Matemáticas
+
 
