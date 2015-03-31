@@ -8,6 +8,7 @@
 <ul>
 <li><a href="#sec-1-1-1">1.1.1. Sistema de numeración</a></li>
 <li><a href="#sec-1-1-2">1.1.2. Khan Academy</a></li>
+<li><a href="#sec-1-1-3">1.1.3. Bibliografía - Sitiografía:</a></li>
 </ul>
 </li>
 </ul>
@@ -215,6 +216,12 @@ Junto ambas semanas dado que hay 4 días de feriado entre las dos
         isaurog33c
         isaurog43c
         isaurog53c
+
+### Bibliografía - Sitiografía:<a id="sec-1-1-3"></a>
+
+-   Diseño Curricular de la Ciudad de Buenos Aires
+-   Matemática en sexto. Santillana
+-   [Khan Academy](http://es.khanacademy.org)
 
 <div id="footnotes">
 <h2 class="footnotes">Nota al pie de p&aacute;gina: </h2>
