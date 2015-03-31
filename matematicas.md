@@ -57,134 +57,135 @@ Junto ambas semanas dado que hay 4 días de feriado entre las dos
 
 -   Cálculo para que cambie la cifra indicada
     1.  ¿Qué cantidad le restarías a 4.829.356 para que se transforme en estos números?
-        
-        <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-        
-        
-        <colgroup>
-        <col  class="right" />
-        
-        <col  class="left" />
-        
-        <col  class="left" />
-        </colgroup>
-        <thead>
-        <tr>
-        <th scope="col" class="right">&#xa0;</th>
-        <th scope="col" class="left">¿Cuánto le restarías?</th>
-        <th scope="col" class="left">para transformarlo en</th>
-        </tr>
-        </thead>
-        
-        <tbody>
-        <tr>
-        <td class="right">4.829.356</td>
-        <td class="left">&#xa0;</td>
-        <td class="left">- 4.809.356</br> - 4.000.356</br> - 9.356</td>
-        </tr>
-        </tbody>
-        </table>
-    2.  Escribí un cálculo para que cambie solo la cifra indicada en cada número.
-        1.  1.025.479 (marca en el 2)
-        
-        2.  3.523.098 (marca en el 5)
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="right" />
+
+<col  class="left" />
+
+<col  class="left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="right">&#xa0;</th>
+<th scope="col" class="left">¿Cuánto le restarías?</th>
+<th scope="col" class="left">para transformarlo en</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="right">4.829.356</td>
+<td class="left">&#xa0;</td>
+<td class="left">- 4.809.356</br> - 4.000.356</br> - 9.356</td>
+</tr>
+</tbody>
+</table>
+
+1.  Escribí un cálculo para que cambie solo la cifra indicada en cada número.
+    1.  1.025.479 (marca en el 2)
+    
+    2.  3.523.098 (marca en el 5)
+
 -   Tabla con puntajes (analizar equivalencias entre órdenes contiguos)
     1.  En un juego hay fichas con diferentes puntos: 100.000; 10.000; 1.000; 100 y 10
-        
-        <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-        
-        
-        <colgroup>
-        <col  class="left" />
-        
-        <col  class="right" />
-        
-        <col  class="right" />
-        
-        <col  class="right" />
-        
-        <col  class="right" />
-        
-        <col  class="right" />
-        
-        <col  class="left" />
-        </colgroup>
-        <thead>
-        <tr>
-        <th scope="col" class="left">&#xa0;</th>
-        <th scope="col" class="right">100.000</th>
-        <th scope="col" class="right">10.000</th>
-        <th scope="col" class="right">1.000</th>
-        <th scope="col" class="right">100</th>
-        <th scope="col" class="right">10</th>
-        <th scope="col" class="left">Puntaje total</th>
-        </tr>
-        </thead>
-        
-        <tbody>
-        <tr>
-        <td class="left">A</td>
-        <td class="right">0</td>
-        <td class="right">4</td>
-        <td class="right">2</td>
-        <td class="right">8</td>
-        <td class="right">9</td>
-        <td class="left">&#xa0;</td>
-        </tr>
-        
-        
-        <tr>
-        <td class="left">B</td>
-        <td class="right">12</td>
-        <td class="right">3</td>
-        <td class="right">11</td>
-        <td class="right">0</td>
-        <td class="right">0</td>
-        <td class="left">&#xa0;</td>
-        </tr>
-        
-        
-        <tr>
-        <td class="left">C</td>
-        <td class="right">&#xa0;</td>
-        <td class="right">&#xa0;</td>
-        <td class="right">&#xa0;</td>
-        <td class="right">&#xa0;</td>
-        <td class="right">&#xa0;</td>
-        <td class="left">1.120.780</td>
-        </tr>
-        
-        
-        <tr>
-        <td class="left">D</td>
-        <td class="right">&#xa0;</td>
-        <td class="right">12</td>
-        <td class="right">&#xa0;</td>
-        <td class="right">&#xa0;</td>
-        <td class="right">78</td>
-        <td class="left">1.120.780</td>
-        </tr>
-        </tbody>
-        </table>
-        
-        1.  El cuadro muestra la cantidad de fichas que reunió cada jugador al finalizar el partido. Completalo.
-        
-        2.  ¿Qué puntaje se obtiene reuniendo 10 fichas de cada valor?
-        
-        3.  Sofía obtuvo 3.025.140 puntos ¿Cuáles de estos cálculos permiten encontrar su puntaje?
-            1.  3 x 1.000.000 + 2 x 100.000 + 5 x 10.000 + 1 x 1.000 + 4 x 100 =
-            
-            2.  3 x 1.000.000 + 2 x 10.000 + 5 x 1.000 + 1 x 100 + 4 x 10 =
-            
-            3.  30 x 100.000 + 25 x 1.000 + 140 =
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="left" />
+
+<col  class="right" />
+
+<col  class="right" />
+
+<col  class="right" />
+
+<col  class="right" />
+
+<col  class="right" />
+
+<col  class="left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="left">&#xa0;</th>
+<th scope="col" class="right">100.000</th>
+<th scope="col" class="right">10.000</th>
+<th scope="col" class="right">1.000</th>
+<th scope="col" class="right">100</th>
+<th scope="col" class="right">10</th>
+<th scope="col" class="left">Puntaje total</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="left">A</td>
+<td class="right">0</td>
+<td class="right">4</td>
+<td class="right">2</td>
+<td class="right">8</td>
+<td class="right">9</td>
+<td class="left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="left">B</td>
+<td class="right">12</td>
+<td class="right">3</td>
+<td class="right">11</td>
+<td class="right">0</td>
+<td class="right">0</td>
+<td class="left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="left">C</td>
+<td class="right">&#xa0;</td>
+<td class="right">&#xa0;</td>
+<td class="right">&#xa0;</td>
+<td class="right">&#xa0;</td>
+<td class="right">&#xa0;</td>
+<td class="left">1.120.780</td>
+</tr>
+
+
+<tr>
+<td class="left">D</td>
+<td class="right">&#xa0;</td>
+<td class="right">12</td>
+<td class="right">&#xa0;</td>
+<td class="right">&#xa0;</td>
+<td class="right">78</td>
+<td class="left">1.120.780</td>
+</tr>
+</tbody>
+</table>
+
+1.  El cuadro muestra la cantidad de fichas que reunió cada jugador al finalizar el partido. Completalo.
+
+2.  ¿Qué puntaje se obtiene reuniendo 10 fichas de cada valor?
+
+3.  Sofía obtuvo 3.025.140 puntos ¿Cuáles de estos cálculos permiten encontrar su puntaje?
+    1.  3 x 1.000.000 + 2 x 100.000 + 5 x 10.000 + 1 x 1.000 + 4 x 100 =
+    
+    2.  3 x 1.000.000 + 2 x 10.000 + 5 x 1.000 + 1 x 100 + 4 x 10 =
+    
+    3.  30 x 100.000 + 25 x 1.000 + 140 =
+
 -   Qué números se forman
-    1.  1.  54 x 100.000 =
-        
-        2.  35 x 1.000.000 =
-        
-        3.  13 x 1.000 + 9 x 100 + 45 =
-        
-        4.  13 x 1.000.000 + 9 x 100.000 + 4 x 10.000 + 5 x 1.000 =
+    1.  54 x 100.000 =35 x 1.000.000 =
+    
+    2.  13 x 1.000 + 9 x 100 + 45 =
+    
+    3.  13 x 1.000.000 + 9 x 100.000 + 4 x 10.000 + 5 x 1.000 =
 
 -   Resolvé mentalmente
     1.  250.000 : 10.000 =
@@ -226,4 +227,3 @@ Junto ambas semanas dado que hay 4 días de feriado entre las dos
 
 </div>
 </div>
-
