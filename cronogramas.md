@@ -4,7 +4,16 @@ El tiempo es una variable importante a tener en cuenta para planificar y ajustar
 
 ## Primer bimestre 02/3 - 08/5
   - Semanas: 10
-  
+
+### Semana del 06 al 10 de Abril
+
+|Lunes|Martes|Mirércoles|Jueves|
+|:----|:-----|:---------|:-----|
+|Informática <br> - [usá el coco](http://sauce.pntic.mec.es/jdiego/numer/numeros.htm)|Análsis del primer verso de Piedra y camino|Características de los seres vivos |Mùsica|
+|Análisis de problemas|Idem|Idem| Biografía Atahualpa Yupanqui (búsqueda)|
+|Preguntas entrevista Susana Reyes|Inglés|Artes Visuales|Revista|
+
+
 ### Matemática
 
 | Semana |Números y operaciones                                             |Geometría                                             |
