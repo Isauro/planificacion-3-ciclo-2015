@@ -8,14 +8,19 @@ El tiempo es una variable importante a tener en cuenta para planificar y ajustar
 ### Semana del 06 al 10 de Abril
 
 #### TM
-|Lunes|Martes|Mirércoles|Jueves|
-|:----|:-----|:---------|:-----|
-|Informática <br> - [usá el coco](http://sauce.pntic.mec.es/jdiego/numer/numeros.htm)|Análsis del primer verso de Piedra y camino|Características de los seres vivos |Mùsica|
-|Análisis de problemas|Idem|Idem| Biografía Atahualpa Yupanqui (búsqueda)|
-|Preguntas entrevista Susana Reyes|Inglés|Artes Visuales|Revista|
+|Hora |Lunes|Martes|Mirércoles|Jueves|
+|:----|:----|:-----|:---------|:-----|
+|1    |Informática <br> - [usá el coco](http://sauce.pntic.mec.es/jdiego/numer/numeros.htm)|Análsis del primer verso de Piedra y camino|Características de los seres vivos |Mùsica|
+|2    |Análisis de problemas|Idem|Idem| Biografía Atahualpa Yupanqui (búsqueda)|
+|3    |Preguntas entrevista Susana Reyes|Inglés|Artes Visuales|Revista|
 
 #### TT
 
+|Hora|Lunes|Martes|Miércoles|Jueves|Viernes|
+|:---|:----|:-----|:--------|:-----|:------|
+|1   |Infromatica|Inglés|Artes Visuales|Taller de Revista|Educ. Física|
+|2   |Cs soc: Terminar de transcribir la entrevista. Datos de color y contexto|Piedra y camino. Análisis. Muestra con fotos?|Cs Nat: Seres vivos. Unidad y diversidad.|Biografía de Atahualpa. Buscar en internet.|Educ. Física|
+|3   |Mat: Nº del Gbook y numeración 2do ciclo.|Escritura historia de vida. Cap 2 “De qué sueño soy peregrino?|IDEM|Taller de Música|Educ. Física|
 
 #### Ideas para preparar el acto del 17 de Abril:
 - Analizar e interpretar "Piedra y Camino"
