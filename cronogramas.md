@@ -7,13 +7,17 @@ El tiempo es una variable importante a tener en cuenta para planificar y ajustar
 
 ### Semana del 06 al 10 de Abril
 
+#### TM
 |Lunes|Martes|Mirércoles|Jueves|
 |:----|:-----|:---------|:-----|
 |Informática <br> - [usá el coco](http://sauce.pntic.mec.es/jdiego/numer/numeros.htm)|Análsis del primer verso de Piedra y camino|Características de los seres vivos |Mùsica|
 |Análisis de problemas|Idem|Idem| Biografía Atahualpa Yupanqui (búsqueda)|
 |Preguntas entrevista Susana Reyes|Inglés|Artes Visuales|Revista|
 
-Idea para preparar el acto del 17 de Abril:
+#### TT
+
+
+#### Ideas para preparar el acto del 17 de Abril:
 - Analizar e interpretar "Piedra y Camino"
 - Sacar fotos que la interpreten.
 - Hacer epígrafes.
