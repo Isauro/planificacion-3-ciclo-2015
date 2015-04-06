@@ -13,6 +13,13 @@ El tiempo es una variable importante a tener en cuenta para planificar y ajustar
 |Análisis de problemas|Idem|Idem| Biografía Atahualpa Yupanqui (búsqueda)|
 |Preguntas entrevista Susana Reyes|Inglés|Artes Visuales|Revista|
 
+Idea para preparar el acto del 17 de Abril:
+- Analizar e interpretar "Piedra y Camino"
+- Sacar fotos que la interpreten.
+- Hacer epígrafes.
+- Imprimir y/o proyectar durante el acto.
+
+
 
 ### Matemática
 
