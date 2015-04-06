@@ -5,5 +5,4 @@
 * [Cronogramas](cronogramas.md)
 * [Matemáticas](matematicas.md)
 * [Prácticas del Lenguaje](practicas-del-lenguaje.md)
-   * Piedra y camino
 
