@@ -12,7 +12,11 @@
 
 ### Secuencia de actividades
 
-1. Repasar estructura de la posesía: estrofa y verso
+1. Glosario de:
+   - Golpe de Estado
+   - Dictadura militar
+   - Terrorismo de estado
+2. Repasar estructura de la posesía: estrofa y verso
 2. Presentar el poema [Piedra y Camino](piedra_y_camino.md)
 3. Leer y marcar las estrofas.
 4. Analizar la primer estrofa ¿Cómo podemos "traducir" esa estrofa?.
