@@ -5,6 +5,13 @@ El tiempo es una variable importante a tener en cuenta para planificar y ajustar
 ## Primer bimestre 02/3 - 08/5
   - Semanas: 10
 
+### Semana del 20 al 25 de Abril
+
+|Hora|Lunes|Martes|Miércoles|Jueves|Viernes|
+|:---|:----|:-----|:--------|:-----|:------|
+|- Sist. Problemáticas Numeración<br>-TM: Desgrabación entrevistas.<br>-TT: Secuencia Ciudadanía|- TM: Picnics y fotos ACTO <br> - TT: Capítulo 3 Historias de vida | Secuencia Ciudadanía|- TM: Secuencia Ciudadanía <br>- TT: Novela por capítulos| Geometría  |Educación Física|
+
+
 ### Semana del 06 al 10 de Abril
 
 #### TM
