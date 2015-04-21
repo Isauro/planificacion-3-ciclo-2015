@@ -9,7 +9,7 @@ El tiempo es una variable importante a tener en cuenta para planificar y ajustar
 
 |Hora|Lunes|Martes|Miércoles|Jueves|Viernes|
 |:---|:----|:-----|:--------|:-----|:------|
-|- Sist. Problemáticas Numeración<br>-TM: Desgrabación entrevistas.<br>-TT: Secuencia Ciudadanía|- TM: Picnics y fotos ACTO <br> - TT: Capítulo 3 Historias de vida | Secuencia Ciudadanía|- TM: Secuencia Ciudadanía <br>- TT: Novela por capítulos| Geometría  |Educación Física|
+|- Sist. Problemáticas Numeración<br>-TM: Desgrabación entrevistas.<br>-TT: [Secuencia Ciudadanía](ciencias-sociales.md)|- TM: Picnics y fotos ACTO <br> - TT: Capítulo 3 Historias de vida | [Secuencia Ciudadanía](ciencias-sociales.md)|- TM: [Secuencia Ciudadanía](ciencias-sociales.md) <br>- TT: [Novela por capítulos](novela_por_capitulo.md)| Geometría  |Educación Física|
 
 
 ### Semana del 06 al 10 de Abril
