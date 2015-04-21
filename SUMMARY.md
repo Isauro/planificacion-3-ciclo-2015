@@ -7,4 +7,4 @@
 * [Prácticas del Lenguaje](practicas-del-lenguaje.md)
    * [Piedra y Camino](piedra_y_camino.md)
    * [Novela por capítulo](novela_por_capitulo.md)
-* [Ciencias Sociales](ciencia-sociales.md)
+* [Ciencias Sociales](ciencias-sociales.md)
