@@ -5,6 +5,15 @@ El tiempo es una variable importante a tener en cuenta para planificar y ajustar
 ## Primer bimestre 02/3 - 08/5
   - Semanas: 10
 
+
+### Semana del 11 al 15 de Mayo TM y TT
+
+|Hora|Lunes|Martes|Miércoles|Jueves|Viernes|
+|:---|:----|:-----|:--------|:-----|:------|
+| 1  |Taller de programacion de juegos|Naturales - caract. seres vivos|Parque de la memoria TM|Música|Ed. Física|
+| 2  |Lengua - Cuento|Naturales - caract. seres vivos|Parque de la memoria TM|Mate- Geometría|Ed. Física|
+| 3  |Matemática - Operaciones|Inglés|Parque de la memoria TM|Revista|Educ. Física|
+
 ### Semana del 20 al 25 de Abril TM y TT
 
 |Hora|Lunes|Martes|Miércoles|Jueves|Viernes|
