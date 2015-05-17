@@ -192,62 +192,63 @@ La documentacion por semanas funciona, pero el día a día de la escuela desorga
     2.  38.987= <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span></span> x <span class="underline"><span class="underline"><span class="underline"><span class="underline">\_\_</span></span></span></span> + 8 x <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_\_</span></span></span></span></span> + 9 x <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span></span> + <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span></span> x 10 + <span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span>
     3.  5.600.741= 5 x <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_\_</span></span></span></span></span></span> + 6 x <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span></span> + <span class="underline"><span class="underline"><span class="underline"><span class="underline">\_\_</span></span></span></span> x 100 + 41
 3.  ¿Cómo pagarían las siguientes cantidades usando la menor cantidad de billetes y monedas?
-    
-    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-    
-    
-    <colgroup>
-    <col  class="right" />
-    
-    <col  class="left" />
-    
-    <col  class="left" />
-    
-    <col  class="left" />
-    </colgroup>
-    <thead>
-    <tr>
-    <th scope="col" class="right">&#xa0;</th>
-    <th scope="col" class="left">Con Billetes de $100</th>
-    <th scope="col" class="left">Con Billetes de $10</th>
-    <th scope="col" class="left">Con monedas de $1</th>
-    </tr>
-    </thead>
-    
-    <tbody>
-    <tr>
-    <td class="right">25.618</td>
-    <td class="left">&#xa0;</td>
-    <td class="left">&#xa0;</td>
-    <td class="left">&#xa0;</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="right">125.618</td>
-    <td class="left">&#xa0;</td>
-    <td class="left">&#xa0;</td>
-    <td class="left">&#xa0;</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="right">520.005</td>
-    <td class="left">&#xa0;</td>
-    <td class="left">&#xa0;</td>
-    <td class="left">&#xa0;</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="right">33.333</td>
-    <td class="left">&#xa0;</td>
-    <td class="left">&#xa0;</td>
-    <td class="left">&#xa0;</td>
-    </tr>
-    </tbody>
-    </table>
-4.  Completen los cálculos para que resulten válidas las igualdades.
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="right" />
+
+<col  class="left" />
+
+<col  class="left" />
+
+<col  class="left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="right">&#xa0;</th>
+<th scope="col" class="left">Con Billetes de $100</th>
+<th scope="col" class="left">Con Billetes de $10</th>
+<th scope="col" class="left">Con monedas de $1</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="right">25.618</td>
+<td class="left">&#xa0;</td>
+<td class="left">&#xa0;</td>
+<td class="left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="right">125.618</td>
+<td class="left">&#xa0;</td>
+<td class="left">&#xa0;</td>
+<td class="left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="right">520.005</td>
+<td class="left">&#xa0;</td>
+<td class="left">&#xa0;</td>
+<td class="left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="right">33.333</td>
+<td class="left">&#xa0;</td>
+<td class="left">&#xa0;</td>
+<td class="left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+
+1.  Completen los cálculos para que resulten válidas las igualdades.
     1.  345= 34 x <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_\_</span></span></span></span></span> + 5
     2.  23= 2 x <span class="underline"><span class="underline"><span class="underline"><span class="underline">\_\_</span></span></span></span> + <span class="underline"><span class="underline"><span class="underline"><span class="underline">\_\_</span></span></span></span>
     3.  1.246= <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span></span> x 10 + 6
