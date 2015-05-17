@@ -2,16 +2,18 @@
 <h2>&Iacute;ndice</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#sec-1">1. Primer Cuatrimestre 02/3 - 08/5</a>
+<li><a href="#sec-1">1. Primer Cuatrimestre 02/3 - 08/5</a></li>
+<li><a href="#sec-2">2. Sistema de numeración</a>
 <ul>
-<li><a href="#sec-1-1">1.1. Sistema de numeración</a>
-<ul>
-<li><a href="#sec-1-1-1">1.1.1. Práctica en vistas de la evaluación</a></li>
+<li><a href="#sec-2-1">2.1. Práctica en vistas de la evaluación</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-2">1.2. Khan Academy</a></li>
-<li><a href="#sec-1-3">1.3. Bibliografía - Sitiografía:</a></li>
-<li><a href="#sec-1-4">1.4. Semana 4 y 5</a></li>
+<li><a href="#sec-3">3. Geometría</a>
+<ul>
+<li><a href="#sec-3-1">3.1. Construcciones 1</a></li>
+<li><a href="#sec-3-2">3.2. Khan Academy</a></li>
+<li><a href="#sec-3-3">3.3. Bibliografía - Sitiografía:</a></li>
+<li><a href="#sec-3-4">3.4. Semana 4 y 5</a></li>
 </ul>
 </li>
 </ul>
@@ -25,7 +27,7 @@ Cada semana implica una organización de contenidos que puede ir variando en fun
 
 La documentación por semanas funciona, pero el día a día de la escuela desorganiza la organización, o mejor dicho, la realidad aulica se impone a la idealidad programática. Entonces, situándonos en esta realidad, dejamos los cronogramas en su respectiva sección que se actualizarán cada vez que podamos y en esta sección incluimos las secuencias y los comentarios a las mismas.
 
-## Sistema de numeración<a id="sec-1-1"></a>
+# Sistema de numeración<a id="sec-2"></a>
 
 -   Cálculo para que cambie la cifra indicada
     1.  ¿Qué cantidad le restarías a 4.829.356 para que se transforme en estos números?
@@ -178,7 +180,7 @@ La documentación por semanas funciona, pero el día a día de la escuela desorg
     
     9.  205.000 : 1.000 =
 
-### Práctica en vistas de la evaluación<a id="sec-1-1-1"></a>
+## Práctica en vistas de la evaluación<a id="sec-2-1"></a>
 
 1.  Escriban con números las siguientes cantidades:
     1.  Tres millones ochocientos mil =
@@ -187,11 +189,7 @@ La documentación por semanas funciona, pero el día a día de la escuela desorg
     4.  Tres millones ochocientos =
     5.  Tres millones ochenta =
     6.  Tres millones ocho mil =
-2.  Completen cada una de las igualdades
-    1.  253.000= <span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span> x 100.000 + 5 x <span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span> + 3 x <span class="underline"><span class="underline"><span class="underline"><span class="underline">\_\_</span></span></span></span>
-    2.  38.987= <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span></span> x <span class="underline"><span class="underline"><span class="underline"><span class="underline">\_\_</span></span></span></span> + 8 x <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_\_</span></span></span></span></span> + 9 x <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span></span> + <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span></span> x 10 + <span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span>
-    3.  5.600.741= 5 x <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_\_</span></span></span></span></span></span> + 6 x <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span></span> + <span class="underline"><span class="underline"><span class="underline"><span class="underline">\_\_</span></span></span></span> x 100 + 41
-3.  ¿Cómo pagarían las siguientes cantidades usando la menor cantidad de billetes y monedas?
+2.  ¿Cómo pagarían las siguientes cantidades usando la menor cantidad de billetes y monedas?
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -248,7 +246,11 @@ La documentación por semanas funciona, pero el día a día de la escuela desorg
 </tbody>
 </table>
 
-1.  Completen los cálculos para que resulten válidas las igualdades.
+1.  Completen cada una de las igualdades
+    1.  253.000= <span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span> x 100.000 + 5 x <span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span> + 3 x <span class="underline"><span class="underline"><span class="underline"><span class="underline">\_\_</span></span></span></span>
+    2.  38.987= <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span></span> x <span class="underline"><span class="underline"><span class="underline"><span class="underline">\_\_</span></span></span></span> + 8 x <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_\_</span></span></span></span></span> + 9 x <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span></span> + <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span></span> x 10 + <span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span>
+    3.  5.600.741= 5 x <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_\_</span></span></span></span></span></span> + 6 x <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span></span> + <span class="underline"><span class="underline"><span class="underline"><span class="underline">\_\_</span></span></span></span> x 100 + 41
+2.  Completen los cálculos para que resulten válidas las igualdades.
     1.  345= 34 x <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_\_</span></span></span></span></span> + 5
     2.  23= 2 x <span class="underline"><span class="underline"><span class="underline"><span class="underline">\_\_</span></span></span></span> + <span class="underline"><span class="underline"><span class="underline"><span class="underline">\_\_</span></span></span></span>
     3.  1.246= <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span></span> x 10 + 6
@@ -256,7 +258,19 @@ La documentación por semanas funciona, pero el día a día de la escuela desorg
     5.  431= 43 x <span class="underline"><span class="underline"><span class="underline">\_</span></span></span> + 1
     6.  3.451 = <span class="underline"><span class="underline"><span class="underline">\_</span></span></span> x 100 + 51
 
-## Khan Academy<a id="sec-1-2"></a>
+# Geometría<a id="sec-3"></a>
+
+La presente secuencia tiene como objetivo introducir a los estudiantes en el estudio de la geometría en función del desarrollo del razonamiento deductivo, la resolución de problemas geométricos que permitan establecer relaciones entre las propiedades de las figuras y los cuerpos y el análisis de los problemas de medida para ampliar los sentidos de los números racionales.
+En cada ejercicio iremos indicando los propósitos y objetivos de aprendizaje (en lenguaje coloquial)
+
+## Construcciones 1<a id="sec-3-1"></a>
+
+1.  Copien las siguientes figuras respetando las medidas<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>
+    1.  ![img](//farm8.staticflickr.com/7435/8723482246_affc3802b8.jpg)
+    2.  ![img](//farm8.staticflickr.com/7354/8722362631_dee0690a78.jpg)
+2.  Si tuvieras que enviar un mensaje escrito con instrucciones para hacer las dos figuras que hicieron arriba ¿Qué escribirían?<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>
+
+## Khan Academy<a id="sec-3-2"></a>
 
 -   Durante esta semana tengo que terminar de cargar los alumnos en Khan Academy.
     -   Se cargaron 5 usuarios grupales.
@@ -266,13 +280,13 @@ La documentación por semanas funciona, pero el día a día de la escuela desorg
         isaurog43c
         isaurog53c
 
-## Bibliografía - Sitiografía:<a id="sec-1-3"></a>
+## Bibliografía - Sitiografía:<a id="sec-3-3"></a>
 
 -   Diseño Curricular de la Ciudad de Buenos Aires
 -   Matemática en sexto. Santillana
 -   [Khan Academy](http://es.khanacademy.org)
 
-## Semana 4 y 5<a id="sec-1-4"></a>
+## Semana 4 y 5<a id="sec-3-4"></a>
 
 Junto ambas semanas dado que hay 4 días de feriado entre las dos 
 
@@ -292,13 +306,13 @@ Junto ambas semanas dado que hay 4 días de feriado entre las dos
 
 
 <tr>
-<td class="left">25 - 27 <sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup></td>
+<td class="left">25 - 27 <sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup></td>
 <td class="left">Sistema de numeración: Descomposición de números en potencias de diez</td>
 </tr>
 
 
 <tr>
-<td class="left">30 - 01 <sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup></td>
+<td class="left">30 - 01 <sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup></td>
 <td class="left">Sistema de numeración: Descomposición de números en potencias de diez</td>
 </tr>
 </tbody>
@@ -308,9 +322,13 @@ Junto ambas semanas dado que hay 4 días de feriado entre las dos
 <h2 class="footnotes">Nota al pie de p&aacute;gina: </h2>
 <div id="text-footnotes">
 
-<div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> Feriados Día de la memoria por la verdad y la justicia</div>
+<div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> La idea de este ejercicio es que los estudiantes utilicen el compás con múltiples propósitos (medir y trazar) y relacionen el radio de la circunferencia para el trazado con el diámetro final de las figuras.</div>
 
-<div class="footdef"><sup><a id="fn.2" class="footnum" href="#fnr.2">2</a></sup> Feriados Semana Santa</div>
+<div class="footdef"><sup><a id="fn.2" class="footnum" href="#fnr.2">2</a></sup> Esta actividad es para comenzar a reflexionar sobre la necesidad de contar con un lenguaje común que abstraiga las propiedades de las figuras para poder reflexionar sobre eso.</div>
+
+<div class="footdef"><sup><a id="fn.3" class="footnum" href="#fnr.3">3</a></sup> Feriados Día de la memoria por la verdad y la justicia</div>
+
+<div class="footdef"><sup><a id="fn.4" class="footnum" href="#fnr.4">4</a></sup> Feriados Semana Santa</div>
 
 
 </div>
