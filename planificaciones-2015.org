@@ -193,17 +193,9 @@ El tiempo es la variable a tener en cuenta para planificar y ajustar los planes
 Las secuencias que se presentan en este apartado están organizadas en función de los [cronogramas](cronogramasMat.md).
 Cada semana implica una organización de contenidos que puede ir variando en función de las adaptaciones que haya que ir haciendo
 *** Primer Cuatrimestre 02/3 - 08/5
+La documentación por semanas funciona, pero el día a día de la escuela desorganiza la organización, o mejor dicho, la realidad aulica se impone a la idealidad programática. Entonces, situándonos en esta realidad, dejamos los cronogramas en su respectiva sección que se actualizarán cada vez que podamos y en esta sección incluimos las secuencias y los comentarios a las mismas.
 
-**** Semana 4 y 5
-
-Junto ambas semanas dado que hay 4 días de feriado entre las dos 
-
-| Semana         | Números y operaciones                                                 |
-| 25 - 27 [fn:1] | Sistema de numeración: Descomposición de números en potencias de diez |
-| 30 - 01 [fn:2] | Sistema de numeración: Descomposición de números en potencias de diez |
-
-
-***** Sistema de numeración
+*** Sistema de numeración
 
 - Cálculo para que cambie la cifra indicada
   1. ¿Qué cantidad le restarías a 4.829.356 para que se transforme en estos números?
@@ -261,8 +253,46 @@ Junto ambas semanas dado que hay 4 días de feriado entre las dos
   8. 2.050 x 100.000 =
 
   9. 205.000 : 1.000 =
+**** Práctica en vistas de la evaluación
 
-***** Khan Academy
+1. Escriban con números las siguientes cantidades:
+   a. Tres millones ochocientos mil = 
+   b. Tres millones ocho = 
+   c. Tres millones ochenta mil = 
+   d. Tres millones ochocientos =
+   e. Tres millones ochenta = 
+   f. Tres millones ocho mil =
+2. ¿Cómo pagarían las siguientes cantidades usando la menor cantidad de billetes y monedas?
+
+|         | Con Billetes de $100 | Con Billetes de $10 | Con monedas de $1 |
+|---------+----------------------+---------------------+-------------------|
+|  25.618 |                      |                     |                   |
+| 125.618 |                      |                     |                   |
+| 520.005 |                      |                     |                   |
+|  33.333 |                      |                     |                   |
+
+
+3. Completen cada una de las igualdades
+   a. 253.000= _________ x 100.000 + 5 x _________ + 3 x __________
+   b. 38.987= ___________ x __________ + 8 x ____________ + 9 x ___________ + ___________ x 10 + _________
+   c. 5.600.741= 5 x ______________ + 6 x ___________ + __________ x 100 + 41
+4. Completen los cálculos para que resulten válidas las igualdades.
+   e. 345= 34 x ____________ + 5
+   f. 23= 2 x __________ + __________
+   g. 1.246= ___________ x 10 + 6
+   h. ____________= 12 x 10 + 4
+   i. 431= 43 x _______ + 1
+   j. 3.451 = _______ x 100 + 51
+*** Geometría 
+La presente secuencia tiene como objetivo introducir a los estudiantes en el estudio de la geometría en función del desarrollo del razonamiento deductivo, la resolución de problemas geométricos que permitan establecer relaciones entre las propiedades de las figuras y los cuerpos y el análisis de los problemas de medida para ampliar los sentidos de los números racionales.
+En cada ejercicio iremos indicando los propósitos y objetivos de aprendizaje (en lenguaje coloquial)
+**** Construcciones 1
+1. Copien las siguientes figuras respetando las medidas[fn:3]
+   1. [[http://farm8.staticflickr.com/7435/8723482246_affc3802b8.jpg]]
+   2. http://farm8.staticflickr.com/7354/8722362631_dee0690a78.jpg
+2. Si tuvieras que enviar un mensaje escrito con instrucciones para hacer las dos figuras que hicieron arriba ¿Qué escribirían?[fn:4]
+
+*** Khan Academy
 - Durante esta semana tengo que terminar de cargar los alumnos en Khan Academy.
   - Se cargaron 5 usuarios grupales.
     isaurog13c
@@ -270,10 +300,19 @@ Junto ambas semanas dado que hay 4 días de feriado entre las dos
     isaurog33c
     isaurog43c
     isaurog53c
-***** Bibliografía - Sitiografía:
+*** Bibliografía - Sitiografía:
 - Diseño Curricular de la Ciudad de Buenos Aires 
 - Matemática en sexto. Santillana
 - [[http://es.khanacademy.org][Khan Academy]]
+*** Semana 4 y 5 
+
+Junto ambas semanas dado que hay 4 días de feriado entre las dos 
+
+| Semana         | Números y operaciones                                                 |
+| 25 - 27 [fn:1] | Sistema de numeración: Descomposición de números en potencias de diez |
+| 30 - 01 [fn:2] | Sistema de numeración: Descomposición de números en potencias de diez |
+
+
 * Ciencias Naturales
 ** Contenidos Ciencias Naturales
 
@@ -468,4 +507,8 @@ Incluida en la guía de trabajo en el laboratorio.
 [fn:1] Feriados Día de la memoria por la verdad y la justicia
 
 [fn:2] Feriados Semana Santa
+
+[fn:3] La idea de este ejercicio es que los estudiantes utilicen el compás con múltiples propósitos (medir y trazar) y relacionen el radio de la circunferencia para el trazado con el diámetro final de las figuras.
+
+[fn:4] Esta actividad es para comenzar a reflexionar sobre la necesidad de contar con un lenguaje común que abstraiga las propiedades de las figuras para poder reflexionar sobre eso.
 

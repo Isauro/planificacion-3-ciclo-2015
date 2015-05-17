@@ -11,11 +11,11 @@
 <li><a href="#sec-3">3. Geometría</a>
 <ul>
 <li><a href="#sec-3-1">3.1. Construcciones 1</a></li>
-<li><a href="#sec-3-2">3.2. Khan Academy</a></li>
-<li><a href="#sec-3-3">3.3. Bibliografía - Sitiografía:</a></li>
-<li><a href="#sec-3-4">3.4. Semana 4 y 5</a></li>
 </ul>
 </li>
+<li><a href="#sec-4">4. Khan Academy</a></li>
+<li><a href="#sec-5">5. Bibliografía - Sitiografía:</a></li>
+<li><a href="#sec-6">6. Semana 4 y 5</a></li>
 </ul>
 </div>
 </div>
@@ -270,7 +270,7 @@ En cada ejercicio iremos indicando los propósitos y objetivos de aprendizaje (e
     2.  ![img](//farm8.staticflickr.com/7354/8722362631_dee0690a78.jpg)
 2.  Si tuvieras que enviar un mensaje escrito con instrucciones para hacer las dos figuras que hicieron arriba ¿Qué escribirían?<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>
 
-## Khan Academy<a id="sec-3-2"></a>
+# Khan Academy<a id="sec-4"></a>
 
 -   Durante esta semana tengo que terminar de cargar los alumnos en Khan Academy.
     -   Se cargaron 5 usuarios grupales.
@@ -280,13 +280,13 @@ En cada ejercicio iremos indicando los propósitos y objetivos de aprendizaje (e
         isaurog43c
         isaurog53c
 
-## Bibliografía - Sitiografía:<a id="sec-3-3"></a>
+# Bibliografía - Sitiografía:<a id="sec-5"></a>
 
 -   Diseño Curricular de la Ciudad de Buenos Aires
 -   Matemática en sexto. Santillana
 -   [Khan Academy](http://es.khanacademy.org)
 
-## Semana 4 y 5<a id="sec-3-4"></a>
+# Semana 4 y 5<a id="sec-6"></a>
 
 Junto ambas semanas dado que hay 4 días de feriado entre las dos 
 
