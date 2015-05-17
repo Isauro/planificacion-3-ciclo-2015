@@ -23,7 +23,7 @@ Cada semana implica una organización de contenidos que puede ir variando en fun
 
 # Primer Cuatrimestre 02/3 - 08/5<a id="sec-1"></a>
 
-La documentacion por semanas funciona, pero el día a día de la escuela desorganiza la organización, o mejor dicho, la realidad aulica se impone a la idealidad programática. Entonces, situándonos en esta realidad, dejamos los cronogramas en su respectiva sección que se actualizarán cada vez que podamos y en esta sección incluimos las secuencias y los comentarios a las mismas.
+La documentación por semanas funciona, pero el día a día de la escuela desorganiza la organización, o mejor dicho, la realidad aulica se impone a la idealidad programática. Entonces, situándonos en esta realidad, dejamos los cronogramas en su respectiva sección que se actualizarán cada vez que podamos y en esta sección incluimos las secuencias y los comentarios a las mismas.
 
 ## Sistema de numeración<a id="sec-1-1"></a>
 
