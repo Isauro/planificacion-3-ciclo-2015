@@ -4,13 +4,14 @@
 <ul>
 <li><a href="#sec-1">1. Primer Cuatrimestre 02/3 - 08/5</a>
 <ul>
-<li><a href="#sec-1-1">1.1. Semana 4 y 5</a>
+<li><a href="#sec-1-1">1.1. Sistema de numeración</a>
 <ul>
-<li><a href="#sec-1-1-1">1.1.1. Sistema de numeración</a></li>
-<li><a href="#sec-1-1-2">1.1.2. Khan Academy</a></li>
-<li><a href="#sec-1-1-3">1.1.3. Bibliografía - Sitiografía:</a></li>
+<li><a href="#sec-1-1-1">1.1.1. Práctica en vistas de la evaluación</a></li>
 </ul>
 </li>
+<li><a href="#sec-1-2">1.2. Khan Academy</a></li>
+<li><a href="#sec-1-3">1.3. Bibliografía - Sitiografía:</a></li>
+<li><a href="#sec-1-4">1.4. Semana 4 y 5</a></li>
 </ul>
 </li>
 </ul>
@@ -22,39 +23,9 @@ Cada semana implica una organización de contenidos que puede ir variando en fun
 
 # Primer Cuatrimestre 02/3 - 08/5<a id="sec-1"></a>
 
-## Semana 4 y 5<a id="sec-1-1"></a>
+La documentacion por semanas funciona, pero el día a día de la escuela desorganiza la organización, o mejor dicho, la realidad aulica se impone a la idealidad programática. Entonces, situándonos en esta realidad, dejamos los cronogramas en su respectiva sección que se actualizarán cada vez que podamos y en esta sección incluimos las secuencias y los comentarios a las mismas.
 
-Junto ambas semanas dado que hay 4 días de feriado entre las dos 
-
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="left" />
-
-<col  class="left" />
-</colgroup>
-<tbody>
-<tr>
-<td class="left">Semana</td>
-<td class="left">Números y operaciones</td>
-</tr>
-
-
-<tr>
-<td class="left">25 - 27 <sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup></td>
-<td class="left">Sistema de numeración: Descomposición de números en potencias de diez</td>
-</tr>
-
-
-<tr>
-<td class="left">30 - 01 <sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup></td>
-<td class="left">Sistema de numeración: Descomposición de números en potencias de diez</td>
-</tr>
-</tbody>
-</table>
-
-### Sistema de numeración<a id="sec-1-1-1"></a>
+## Sistema de numeración<a id="sec-1-1"></a>
 
 -   Cálculo para que cambie la cifra indicada
     1.  ¿Qué cantidad le restarías a 4.829.356 para que se transforme en estos números?
@@ -207,7 +178,84 @@ Junto ambas semanas dado que hay 4 días de feriado entre las dos
     
     9.  205.000 : 1.000 =
 
-### Khan Academy<a id="sec-1-1-2"></a>
+### Práctica en vistas de la evaluación<a id="sec-1-1-1"></a>
+
+1.  Escriban con números las siguientes cantidades:
+    1.  Tres millones ochocientos mil =
+    2.  Tres millones ocho =
+    3.  Tres millones ochenta mil =
+    4.  Tres millones ochocientos =
+    5.  Tres millones ochenta =
+    6.  Tres millones ocho mil =
+2.  Completen cada una de las igualdades
+    1.  253.000= <span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span> x 100.000 + 5 x <span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span> + 3 x <span class="underline"><span class="underline"><span class="underline"><span class="underline">\_\_</span></span></span></span>
+    2.  38.987= <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span></span> x <span class="underline"><span class="underline"><span class="underline"><span class="underline">\_\_</span></span></span></span> + 8 x <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_\_</span></span></span></span></span> + 9 x <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span></span> + <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span></span> x 10 + <span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span>
+    3.  5.600.741= 5 x <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_\_</span></span></span></span></span></span> + 6 x <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span></span> + <span class="underline"><span class="underline"><span class="underline"><span class="underline">\_\_</span></span></span></span> x 100 + 41
+3.  ¿Cómo pagarían las siguientes cantidades usando la menor cantidad de billetes y monedas?
+    
+    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+    
+    
+    <colgroup>
+    <col  class="right" />
+    
+    <col  class="left" />
+    
+    <col  class="left" />
+    
+    <col  class="left" />
+    </colgroup>
+    <thead>
+    <tr>
+    <th scope="col" class="right">&#xa0;</th>
+    <th scope="col" class="left">Con Billetes de $100</th>
+    <th scope="col" class="left">Con Billetes de $10</th>
+    <th scope="col" class="left">Con monedas de $1</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    <tr>
+    <td class="right">25.618</td>
+    <td class="left">&#xa0;</td>
+    <td class="left">&#xa0;</td>
+    <td class="left">&#xa0;</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="right">125.618</td>
+    <td class="left">&#xa0;</td>
+    <td class="left">&#xa0;</td>
+    <td class="left">&#xa0;</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="right">520.005</td>
+    <td class="left">&#xa0;</td>
+    <td class="left">&#xa0;</td>
+    <td class="left">&#xa0;</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="right">33.333</td>
+    <td class="left">&#xa0;</td>
+    <td class="left">&#xa0;</td>
+    <td class="left">&#xa0;</td>
+    </tr>
+    </tbody>
+    </table>
+4.  Completen los cálculos para que resulten válidas las igualdades.
+    1.  345= 34 x <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_\_</span></span></span></span></span> + 5
+    2.  23= 2 x <span class="underline"><span class="underline"><span class="underline"><span class="underline">\_\_</span></span></span></span> + <span class="underline"><span class="underline"><span class="underline"><span class="underline">\_\_</span></span></span></span>
+    3.  1.246= <span class="underline"><span class="underline"><span class="underline"><span class="underline"><span class="underline">\_</span></span></span></span></span> x 10 + 6
+    4.  \_\_\_\_\_\_\_\_\_\_\_\_= 12 x 10 + 4
+    5.  431= 43 x <span class="underline"><span class="underline"><span class="underline">\_</span></span></span> + 1
+    6.  3.451 = <span class="underline"><span class="underline"><span class="underline">\_</span></span></span> x 100 + 51
+
+## Khan Academy<a id="sec-1-2"></a>
 
 -   Durante esta semana tengo que terminar de cargar los alumnos en Khan Academy.
     -   Se cargaron 5 usuarios grupales.
@@ -217,11 +265,43 @@ Junto ambas semanas dado que hay 4 días de feriado entre las dos
         isaurog43c
         isaurog53c
 
-### Bibliografía - Sitiografía:<a id="sec-1-1-3"></a>
+## Bibliografía - Sitiografía:<a id="sec-1-3"></a>
 
 -   Diseño Curricular de la Ciudad de Buenos Aires
 -   Matemática en sexto. Santillana
 -   [Khan Academy](http://es.khanacademy.org)
+
+## Semana 4 y 5<a id="sec-1-4"></a>
+
+Junto ambas semanas dado que hay 4 días de feriado entre las dos 
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="left" />
+
+<col  class="left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="left">Semana</td>
+<td class="left">Números y operaciones</td>
+</tr>
+
+
+<tr>
+<td class="left">25 - 27 <sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup></td>
+<td class="left">Sistema de numeración: Descomposición de números en potencias de diez</td>
+</tr>
+
+
+<tr>
+<td class="left">30 - 01 <sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup></td>
+<td class="left">Sistema de numeración: Descomposición de números en potencias de diez</td>
+</tr>
+</tbody>
+</table>
 
 <div id="footnotes">
 <h2 class="footnotes">Nota al pie de p&aacute;gina: </h2>
