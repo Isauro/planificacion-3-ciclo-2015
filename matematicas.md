@@ -433,10 +433,13 @@ Junto ambas semanas dado que hay 4 días de feriado entre las dos
 
 ![img](orgRectangular1.jpg)
 
-Matías: 13x4 + 8x7 + 8x7 
-         52  + 56 +  56 = 164
-Lorena: 4x21 + 3x16 + 4x8
-         84  + 48  +  32 = 164
+<p class="verse">
+Matías: 13x4 + 8x7 + 8x7<br  />
+&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;52  + 56 +  56 = 164<br  />
+Lorena: 4x21 + 3x16 + 4x8<br  />
+&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;84  + 48  +  32 = 164<br  />
+<br  />
+</p>
 
 -   Escribí otros cálculos que permitan averiguar la cantidad de cuadraditos
 
