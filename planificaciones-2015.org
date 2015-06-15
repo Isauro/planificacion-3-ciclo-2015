@@ -311,8 +311,48 @@ Junto ambas semanas dado que hay 4 días de feriado entre las dos
 | Semana         | Números y operaciones                                                 |
 | 25 - 27 [fn:1] | Sistema de numeración: Descomposición de números en potencias de diez |
 | 30 - 01 [fn:2] | Sistema de numeración: Descomposición de números en potencias de diez |
+*** Operaciones 1
+- Operaciones
+    - Problemas multiplicativos con números naturales.
+        - Resolución de problemas que combinen las cuatro operaciones con números naturales.
+        - Resolución de problemas de combinatoria que involucren variaciones utilizando diagramas de árbol, gráficos, cuadros de doble entrada y la multiplicación.
+        - Resolución de problemas de combinatoria que involucren problemas de permutaciones sin repetición.
+        - Utilización de la potenciación como recurso para resolver problemas de tipo recursivo.
+    - División entera:
+        - Resolución de problemas de división que involucren un análisis del resto.
+        - Resolución de problemas que implican la iteración de un proceso de adición o sustracción.
+        - Uso de la calculadora para reconstruir el resto de una división.
+        - Utilización de las relaciones c x d + r = D y r < d para resolver problemas.
+
+**** Completá estas tablas
+
+| Cajas iguales de tuercas | 2 |   5 | 7 | 10 | 20 | 25 | 30 | 33 | 200 |
+| Cantidad de tuercas      |   | 120 |   |    |    |    |    |    |     | 
+
+---
+
+| Paquetes de CD      | 2 |   3 |     | 6 | 10 |       | 30 | 39 |
+| Cantidad de tuercas |   | 432 | 576 |   |    | 2.880 |    |    |
+  
+
+**** Matías y Lorena calcularon de maneras diferentes cuántos cuadraditos hay en esta figura
+
+[[file:orgRectangular1.jpg]]
 
 
+Matías: 13x4 + 8x7 + 8x7 
+         52  + 56 +  56 = 164
+Lorena: 4x21 + 3x16 + 4x8
+         84  + 48  +  32 = 164
+
+
+- Escribí otros cálculos que permitan averiguar la cantidad de cuadraditos
+
+**** En una pared se colocaron 18 filas de 24 cerámicas cada una.
+a. ¿Es cierto que si se duplica la cantidad de filas, la cantidad total de cerámicas es el doble?
+b. Si se duplican la cantidad de filas y de cerámicas por fila, ¿Cuántas cerámicas se necesitan?
+c. Si la cantidad de filas y cerámicas por fila se reduce a la mitad ¿Es cierto que la cantidad total de cerámicas se reduce a la cuarta parte?
+ 
 * Ciencias Naturales
 ** Contenidos Ciencias Naturales
 
