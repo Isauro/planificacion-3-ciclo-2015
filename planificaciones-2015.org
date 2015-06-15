@@ -300,10 +300,6 @@ En cada ejercicio iremos indicando los propósitos y objetivos de aprendizaje (e
     isaurog33c
     isaurog43c
     isaurog53c
-*** Bibliografía - Sitiografía:
-- Diseño Curricular de la Ciudad de Buenos Aires 
-- Matemática en sexto. Santillana
-- [[http://es.khanacademy.org][Khan Academy]]
 *** Semana 4 y 5 
 
 Junto ambas semanas dado que hay 4 días de feriado entre las dos 
@@ -312,17 +308,7 @@ Junto ambas semanas dado que hay 4 días de feriado entre las dos
 | 25 - 27 [fn:1] | Sistema de numeración: Descomposición de números en potencias de diez |
 | 30 - 01 [fn:2] | Sistema de numeración: Descomposición de números en potencias de diez |
 *** Operaciones 1
-- Operaciones
-    - Problemas multiplicativos con números naturales.
-        - Resolución de problemas que combinen las cuatro operaciones con números naturales.
-        - Resolución de problemas de combinatoria que involucren variaciones utilizando diagramas de árbol, gráficos, cuadros de doble entrada y la multiplicación.
-        - Resolución de problemas de combinatoria que involucren problemas de permutaciones sin repetición.
-        - Utilización de la potenciación como recurso para resolver problemas de tipo recursivo.
-    - División entera:
-        - Resolución de problemas de división que involucren un análisis del resto.
-        - Resolución de problemas que implican la iteración de un proceso de adición o sustracción.
-        - Uso de la calculadora para reconstruir el resto de una división.
-        - Utilización de las relaciones c x d + r = D y r < d para resolver problemas.
+
 
 **** Completá estas tablas
 
@@ -353,6 +339,10 @@ a. ¿Es cierto que si se duplica la cantidad de filas, la cantidad total de cer�
 b. Si se duplican la cantidad de filas y de cerámicas por fila, ¿Cuántas cerámicas se necesitan?
 c. Si la cantidad de filas y cerámicas por fila se reduce a la mitad ¿Es cierto que la cantidad total de cerámicas se reduce a la cuarta parte?
  
+*** Bibliografía - Sitiografía:
+- Diseño Curricular de la Ciudad de Buenos Aires 
+- Matemática en sexto. Santillana
+- [[http://es.khanacademy.org][Khan Academy]]
 * Ciencias Naturales
 ** Contenidos Ciencias Naturales
 
