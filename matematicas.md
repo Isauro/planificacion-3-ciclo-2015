@@ -2,7 +2,7 @@
 <h2>&Iacute;ndice</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#sec-1">1. Matemáticas</a>
+<li><a href="#sec-1">1. Matemáicas</a>
 <ul>
 <li><a href="#sec-1-1">1.1. Contenidos Matemáticas</a>
 <ul>
@@ -48,7 +48,7 @@
 </div>
 
 
-# Matemáticas<a id="sec-1"></a>
+# Matemáicas<a id="sec-1"></a>
 
 ## Contenidos Matemáticas<a id="sec-1-1"></a>
 

@@ -14,7 +14,7 @@
 #+EXCLUDE_TAGS: noexport
 #+CREATOR: Emacs 24.4.1 (Org mode 8.3beta)
 
-* Matemáticas
+* Matemáicas
 ** Contenidos Matemáticas
 *** Números y operaciones
 - Sistema de Numeración
