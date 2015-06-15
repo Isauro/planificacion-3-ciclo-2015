@@ -312,8 +312,8 @@ Junto ambas semanas dado que hay 4 días de feriado entre las dos
 
 **** Completá estas tablas
 
-| Cajas iguales de tuercas | 2 |   5 | 7 | 10 | 20 | 25 | 30 | 33 | 200 |
-| Cantidad de tuercas      |   | 120 |   |    |    |    |    |    |     | 
+| Cajas iguales de barritas | 2 |   5 | 7 | 10 | 20 | 25 | 30 | 33 | 200 |
+| Cantidad de barritas      |   | 120 |   |    |    |    |    |    |     |
 
 ---
 

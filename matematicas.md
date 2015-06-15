@@ -349,7 +349,7 @@ Junto ambas semanas dado que hay 4 días de feriado entre las dos
 </colgroup>
 <tbody>
 <tr>
-<td class="left">Cajas iguales de tuercas</td>
+<td class="left">Cajas iguales de barritas</td>
 <td class="right">2</td>
 <td class="right">5</td>
 <td class="right">7</td>
@@ -363,7 +363,7 @@ Junto ambas semanas dado que hay 4 días de feriado entre las dos
 
 
 <tr>
-<td class="left">Cantidad de tuercas</td>
+<td class="left">Cantidad de barritas</td>
 <td class="right">&#xa0;</td>
 <td class="right">120</td>
 <td class="right">&#xa0;</td>
