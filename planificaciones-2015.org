@@ -289,7 +289,7 @@ En cada ejercicio iremos indicando los propósitos y objetivos de aprendizaje (e
 **** Construcciones 1
 1. Copien las siguientes figuras respetando las medidas[fn:3]
    1. [[http://farm8.staticflickr.com/7435/8723482246_affc3802b8.jpg]]
-   2. http://farm8.staticflickr.com/7354/8722362631_dee0690a78.jpg
+   2. [[http://farm8.staticflickr.com/7354/8722362631_dee0690a78.jpg]]
 2. Si tuvieras que enviar un mensaje escrito con instrucciones para hacer las dos figuras que hicieron arriba ¿Qué escribirían?[fn:4]
 
 *** Khan Academy
