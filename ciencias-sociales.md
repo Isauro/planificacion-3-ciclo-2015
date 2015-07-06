@@ -166,7 +166,7 @@ Pueden realizar una línea de tiempo para ordenar los hechos históricos que se 
 
 
 <tr>
-<td class="org-left"><imagenes/ingresoCabildo.jpg"></img></td>
+<td class="org-left"><img src="imagenes/ingresoCabildo.jpg"></img></td>
 </tr>
 </tbody>
 </table>
@@ -192,7 +192,7 @@ Pueden realizar una línea de tiempo para ordenar los hechos históricos que se 
 
 
 <tr>
-<td class="org-left"><imagenes/institucionCabildo.jpg"></img></td>
+<td class="org-left"><img src="imagenes/institucionCabildo.jpg"></img></td>
 </tr>
 </tbody>
 </table>
@@ -218,7 +218,7 @@ Pueden realizar una línea de tiempo para ordenar los hechos históricos que se 
 
 
 <tr>
-<td class="org-left"><img src="imagenes/carcelCabildo.jpg></img></td>
+<td class="org-left"><img src="imagenes/carcelCabildo.jpg"></img></td>
 </tr>
 </tbody>
 </table>
@@ -244,7 +244,7 @@ Pueden realizar una línea de tiempo para ordenar los hechos históricos que se 
 
 
 <tr>
-<td class="org-left"><img src="imagenes/revolucionCabildo.jpg></img></td>
+<td class="org-left"><img src="imagenes/revolucionCabildo.jpg"></img></td>
 </tr>
 </tbody>
 </table>
@@ -269,7 +269,7 @@ Pueden realizar una línea de tiempo para ordenar los hechos históricos que se 
 
 
 <tr>
-<td class="org-left"><img src="imagenes/capitularCabildo.jpg></img></td>
+<td class="org-left"><img src="imagenes/capitularCabildo.jpg"></img></td>
 </tr>
 </tbody>
 </table>
