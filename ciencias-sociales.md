@@ -319,7 +319,7 @@ Pueden realizar una línea de tiempo para ordenar los hechos históricos que se 
 
 
 <tr>
-<td class="org-left">![img](imagenes/gobernadoCabildo.jpg)</td>
+<td class="org-left">![img](/imagenes/gobernadoCabildo.jpg)</td>
 </tr>
 </tbody>
 </table>
