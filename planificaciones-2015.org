@@ -532,6 +532,33 @@ Incluida en la guía de trabajo en el laboratorio.
 - [Educ.ar](http://www.educ.ar/sitios/educar/recursos/ver?id=92144)
 - [Material para docentes, Escuelas del Bicentenario](http://www.ebicentenario.org.ar/ebooks/CN_docentes_sexto/)
 
+
+* Prácticas del Lenguaje
+** Bibliobici
+*** Lecturas
+:PROPERTIES:
+:ID:       13913325-0fb5-4a9c-80a9-e99634d1eacb
+:END:
+- Objetivos:
+  - Que los pibes y pibas construyan un espacio y un ambiente de lectura.
+  - Que los pibes y pibas seleccionen una lectura para comentar luego, qué leyeron, de que se trataba el cuento y porque lo recomendarían
+- Les armaremos una mesa de libros y dispondremos de recomendaciones orales para algunos de los libros.
+Mesa de libros <2015-07-02 jue>
+
+
+
+| Título                                              | Autor/es             | Editorial                              |
+|-----------------------------------------------------+----------------------+----------------------------------------|
+| Dos veces bueno                                     | Varios               | IMFC                                   |
+| Breves cuentos LatinoAmericanos                     | Varios               | Coedición Latinoamericana              |
+| Clásicos de terror II                               | Bierce - Poe - Hardy | Sigmar                                 |
+| Cuentos extraños y fantásticos                      | Varios               | Azulejos                               |
+| Cuentos con humanos androides y robots              | Varios               | Colihue                                |
+| 13 cuentos x 13 escritores argentinos               | Varios               | Editorial Cono Sur                     |
+| Cuentos fantásticos y de ciencia ficción Argentinos | Varios               | Ciudad de Arena. Gobierno de la ciudad |
+| Cuentos fantásticos                                 | Varios               | Troquel                                |
+|                                                     |                      |                                        |
+
 * Footnotes
 
 [fn:1] Feriados Día de la memoria por la verdad y la justicia
