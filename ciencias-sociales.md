@@ -1,12 +1,18 @@
 <div id="table-of-contents">
-<h2>Table of Contents</h2>
+<h2>Índice</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#sec-1">1. Planificaciones de Ciencias Sociales</a>
+<li><a href="#orgheadline9">1. Planificaciones de Ciencias Sociales</a>
 <ul>
-<li><a href="#sec-1-1">1.1. Secuencia Ciudadanía</a>
+<li><a href="#orgheadline4">1.1. Secuencia Ciudadanía</a>
 <ul>
-<li><a href="#sec-1-1-1">1.1.1. clase Nº 1</a></li>
+<li><a href="#orgheadline3">1.1.1. clase Nº 1</a></li>
+</ul>
+</li>
+<li><a href="#orgheadline8">1.2. Secuencia De la Revolución de Mayo a la Independencia</a>
+<ul>
+<li><a href="#orgheadline6">1.2.1. Secuencia: Recorrido virtual por el Museo Histórico del Cabildo.</a></li>
+<li><a href="#orgheadline7">1.2.2. Secuencia: Mariano moreno, vida obra y legado.</a></li>
 </ul>
 </li>
 </ul>
@@ -15,11 +21,11 @@
 </div>
 </div>
 
-# Planificaciones de Ciencias Sociales<a id="sec-1"></a>
+# Planificaciones de Ciencias Sociales<a id="orgheadline9"></a>
 
-## Secuencia Ciudadanía<a id="sec-1-1"></a>
+## Secuencia Ciudadanía<a id="orgheadline4"></a>
 
-### clase Nº 1<a id="sec-1-1-1"></a>
+### clase Nº 1<a id="orgheadline3"></a>
 
 **Propósitos:** 
 
@@ -96,3 +102,100 @@ Pueden realizar una línea de tiempo para ordenar los hechos históricos que se 
     
     Cuadernillo para docentes “Voto a los 16. Democracia, ciudadanía y participación.”
     Ministerio de Educación de la Nación
+
+## Secuencia De la Revolución de Mayo a la Independencia<a id="orgheadline8"></a>
+
+-   Que queremos que lxs estudiantes:
+    -   Desarrollen cierta perspectiva histórica.
+    -   ampliando las capacidades para describir, analizar, comprender situaciones del pasado a través de la experiencia de los que vivieron en esos momentos.
+-   Cómo nos vamos a aproximar a estos objetivos:
+    -   Analizando los propósitos de algunas edificaciones que aun hoy existen en la ciudad como vestigios de un pasado lejano. (Museo Histórico del Cabildo)
+    -   Indagando en la vida y las ideas de Mariano Moreno y analizando el acta firmada el 9 de Julio de 1916. Entendida esta como parte del proceso proceso revolucionario iniciado el 25 de Mayo de 1810.
+
+### Secuencia: Recorrido virtual por el Museo Histórico del Cabildo.<a id="orgheadline6"></a>
+
+1.  Visitar (entre todos en la computadora de biblioteca o con el proyector) el [Sitio del Museo Histórico del Cabildo](http://www.argentinavirtual.educ.ar/localhost/index076a.html?option=com_content&view=article&id=74:museo-historico-nacional-del-cabildo-y-de-la-revolucion-de-mayo&catid=38:recorridos-navegador&Itemid=118) teniendo en cuenta las siguientes preguntas que intentaremos responder:
+    1.  ¿Cuál fue la importancia del Cabildo en la Revolución de Mayo? ¿Por qué?
+    2.  ¿Cuáles eran las funciones del Cabildo en esa época?
+2.  Revisitar la página ahora en grupos pequeños para responder las preguntas y detallar en qué parte del recorrido encontraron sus respuestas.
+    -   Si no hay posibilidad de darle una máquina a cada grupo se entregará el siguiente recorrido virtual&#x2026; en papel :D
+
+1.  Recorrido en papel
+
+    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+    
+    
+    <colgroup>
+    <col  class="org-left" />
+    </colgroup>
+    <thead>
+    <tr>
+    <th scope="col" class="org-left">Museo Histórico del Cabildo: Fachada</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    <tr>
+    <td class="org-left">El edificio actual del Cabildo ha sufrido importantes reformas y sólo conserva algunos de sus espacios originales. Fue escenario de importantes eventos históricos, destacándose la revolución que puso fin al dominio colonial español en mayo de 1810.<br>Hoy es un museo que ha sido reacondicionado para los festejos del Bicentenario de esa revolución. Todos los espacios del edificio histórico se habilitaron como salas de exposición. Por primera vez podemos acceder al balcón y ver, en el patio, los túneles a través de una cámara subterránea.<br> Los objetos que vemos en las salas también han sido restaurados y la iluminación de los espacios y la fachada tienen un moderno sistema que nos permite apreciar su arquitectura.</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">![img](imagenes/fachadaCabildo.jpg)</td>
+    </tr>
+    </tbody>
+    </table>
+    
+    &#x2014;
+    
+    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+    
+    
+    <colgroup>
+    <col  class="org-left" />
+    </colgroup>
+    <thead>
+    <tr>
+    <th scope="col" class="org-left">Museo Histórico del Cabildo: Sala de Ingreso o Recibidor</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    <tr>
+    <td class="org-left">Por esa puerta ingresaban antiguamente los carruajes, pero el 22 de mayo de 1810 la cruzaron los vecinos que decidieron terminar con el Virreinato del Río de la Plata y organizar un gobierno autónomo que no dependiera del dominio español. Aquí encontramos una pintura realizada en 1939 por el artista Soileitez, titulada Día de fiesta en la Plaza Victoria.<br>Durante el siglo XIX la Plaza de Mayo estuvo dividida en dos partes y el espacio frente al Cabildo se llamó Plaza Victoria. Allí, desde 1811 se levantó la Pirámide de Mayo que se ve en el cuadro. Durante las Fiestas Mayas, organizadas por el Cabildo, el pueblo se reunía en la plaza donde se realizaban diversos eventos y la Pirámide de Mayo se decoraba con banderas y velas.<br>Desde aquí accedemos a las salas de la planta baja donde se encontraban las oficinas de los funcionarios y un calabozo común denominado “sala de presos”.</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">![img](imagenes/ingresoCabildo.jpg)</td>
+    </tr>
+    </tbody>
+    </table>
+    
+    &#x2014;
+    
+    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+    
+    
+    <colgroup>
+    <col  class="org-left" />
+    </colgroup>
+    <thead>
+    <tr>
+    <th scope="col" class="org-left">Museo Histórico del Cabildo: Sala Cabildo Institución</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    <tr>
+    <td class="org-left">Entramos ahora en la Sala Cabildo Institución donde se refleja la actividad que se realizaba en los tiempos de la colonia española. El Cabildo se encargaba de gobernar y aplicar la justicia en la ciudad. Entre sus principales tareas se encontraba la administración de la recaudación de los impuestos. También funcionaban los tribunales que juzgaban delitos como homicidios, robos y juegos clandestinos.<br>En la sala podemos ver, entre otros objetos, el Estandarte Real. De color rojo y con imágenes religiosas estos estandartes eran fundamentales para el gobierno colonial, dado que representaban al Rey directamente. Presidía las ceremonias y solamente podía llevarlo el Alférez Real, un funcionario especial que debía vestir un traje distinguido como el que puede verse en esta sala.<br>Otro objeto muy importante es el Arca de Caudales, donde se guardaban las monedas recaudadas por el Cabildo a través del cobro de impuestos. Este arca del siglo XVI es de hierro fundido y forjado para hacerla inviolable.<br>Finalmente se exhibe también el Reglamento de Milicias de 1801, un documento que describe cómo debían conformar los ciudadanos estos cuerpos armados para entrar en combate ante la necesidad de defender la ciudad. Gracias a estas reglas se organizaron los cuerpos milicianos divididos por castas y orígenes. Esta organización permitió reconquistar la ciudad y defenderla cuando el Imperio Británico intentó invadirla.</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">![img](imagenes/institucionCabildo.jpg)</td>
+    </tr>
+    </tbody>
+    </table>
+
+### Secuencia: Mariano moreno, vida obra y legado.<a id="orgheadline7"></a>
