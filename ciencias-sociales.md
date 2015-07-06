@@ -324,24 +324,6 @@ Pueden realizar una línea de tiempo para ordenar los hechos históricos que se 
 </tbody>
 </table>
 
-&#x2014;
-
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="org-left" />
-</colgroup>
-<tbody>
-<tr>
-<td class="org-left">Museo Histórico del Cabildo: Sala Cabildo Gobernador</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-</table>
+1.  Cada grupo repondrá lo que contestó.
 
 ### Secuencia: Mariano Moreno, vida obra y legado.<a id="orgheadline6"></a>
