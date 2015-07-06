@@ -153,7 +153,7 @@ Ministerio de Educación de la Nación
 | Museo Histórico del Cabildo: Sala Cabildo Gobernador                    |
 | <71>                                                                    |
 | Durante la Revolución de Mayo el Cabildo se transformó en uno de los factores de poder más influyentes en Buenos Aires. El primer gobierno patrio se conformó en su interior y aquí podemos ver los retratos de sus integrantes. Frente a los sucesivos gobiernos el Cabildo continuó representando al pueblo de Buenos Aires. Protagonizó motines, levantamientos y combates entre las facciones políticas generadas tras la revolución.<br>No todas las ciudades del antiguo Virreinato se plegaron a la Revolución. Asunción, Montevideo y algunas ciudades del Alto Perú no reconocieron a los gobiernos porteños. La Asamblea de 1813 intentó unificar a las provincias creando el Directorio. Su lema, “Unión y Libertad”, se lee en la primera moneda acuñada en Potosí, exhibida en esta sala. Allí aparece también el escudo que adopta la Asamblea, entre otros elementos que se transformarán con el tiempo en nuestros símbolos nacionales. Estos pasos se consolidaron con la declaración de Independencia en el Congreso celebrado en Tucumán en 1816.<br>La caída del Directorio después de la batalla de Cepeda en 1820 provocó una reorganización del gobierno de la provincia de Buenos Aires, imponiéndose Martín Rodríguez como gobernador. A partir de ese momento el Cabildo dejó de ser un protagonista político para concentrarse en su función judicial. |
-| [[file:imagenes/gobernadoCabildo.jpg]]                                      |
+| [[file:gobernadorCabildo.jpg]]                                              |
 
 4. Cada grupo repondrá lo que contestó.
 
