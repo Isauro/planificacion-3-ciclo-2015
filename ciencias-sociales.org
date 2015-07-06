@@ -94,10 +94,29 @@ Ministerio de Educación de la Nación
 2. Revisitar la página ahora en grupos pequeños para responder las preguntas y detallar en qué parte del recorrido encontraron sus respuestas.
    - Si no hay posibilidad de darle una máquina a cada grupo se entregará el siguiente recorrido virtual... en papel :D
 **** Recorrido en papel
-Museo del Cabildo
 
+
+| Museo Histórico del Cabildo: Fachada                                    |
+|-------------------------------------------------------------------------|
 | <71>                                                                    |
-| El edificio actual del Cabildo ha sufrido importantes reformas y sólo conserva algunos de sus espacios originales. Fue escenario de importantes eventos históricos, destacándose la revolución que puso fin al dominio colonial español en mayo de 1810. <br>Hoy es un museo que ha sido reacondicionado para los festejos del Bicentenario de esa revolución. Todos los espacios del edificio histórico se habilitaron como salas de exposición. Por primera vez podemos acceder al balcón y ver, en el patio, los túneles a través de una cámara subterránea. Los objetos que vemos en las salas también han sido restaurados y la iluminación de los espacios y la fachada tienen un moderno sistema que nos permite apreciar su arquitectura. |
+| El edificio actual del Cabildo ha sufrido importantes reformas y sólo conserva algunos de sus espacios originales. Fue escenario de importantes eventos históricos, destacándose la revolución que puso fin al dominio colonial español en mayo de 1810.<br>Hoy es un museo que ha sido reacondicionado para los festejos del Bicentenario de esa revolución. Todos los espacios del edificio histórico se habilitaron como salas de exposición. Por primera vez podemos acceder al balcón y ver, en el patio, los túneles a través de una cámara subterránea.<br> Los objetos que vemos en las salas también han sido restaurados y la iluminación de los espacios y la fachada tienen un moderno sistema que nos permite apreciar su arquitectura. |
 | [[file:imagenes/fachadaCabildo.jpg]]                                        |
+
+---
+
+| Museo Histórico del Cabildo: Sala de Ingreso o Recibidor                |
+|-------------------------------------------------------------------------|
+| <71>                                                                    |
+| Por esa puerta ingresaban antiguamente los carruajes, pero el 22 de mayo de 1810 la cruzaron los vecinos que decidieron terminar con el Virreinato del Río de la Plata y organizar un gobierno autónomo que no dependiera del dominio español. Aquí encontramos una pintura realizada en 1939 por el artista Soileitez, titulada Día de fiesta en la Plaza Victoria.<br>Durante el siglo XIX la Plaza de Mayo estuvo dividida en dos partes y el espacio frente al Cabildo se llamó Plaza Victoria. Allí, desde 1811 se levantó la Pirámide de Mayo que se ve en el cuadro. Durante las Fiestas Mayas, organizadas por el Cabildo, el pueblo se reunía en la plaza donde se realizaban diversos eventos y la Pirámide de Mayo se decoraba con banderas y velas.<br>Desde aquí accedemos a las salas de la planta baja donde se encontraban las oficinas de los funcionarios y un calabozo común denominado “sala de presos”. |
+| [[file:imagenes/ingresoCabildo.jpg]]                                        |
+
+---
+
+| Museo Histórico del Cabildo: Sala Cabildo Institución                   |
+|-------------------------------------------------------------------------|
+| <71>                                                                    |
+| Entramos ahora en la Sala Cabildo Institución donde se refleja la actividad que se realizaba en los tiempos de la colonia española. El Cabildo se encargaba de gobernar y aplicar la justicia en la ciudad. Entre sus principales tareas se encontraba la administración de la recaudación de los impuestos. También funcionaban los tribunales que juzgaban delitos como homicidios, robos y juegos clandestinos.<br>En la sala podemos ver, entre otros objetos, el Estandarte Real. De color rojo y con imágenes religiosas estos estandartes eran fundamentales para el gobierno colonial, dado que representaban al Rey directamente. Presidía las ceremonias y solamente podía llevarlo el Alférez Real, un funcionario especial que debía vestir un traje distinguido como el que puede verse en esta sala.<br>Otro objeto muy importante es el Arca de Caudales, donde se guardaban las monedas recaudadas por el Cabildo a través del cobro de impuestos. Este arca del siglo XVI es de hierro fundido y forjado para hacerla inviolable.<br>Finalmente se exhibe también el Reglamento de Milicias de 1801, un documento que describe cómo debían conformar los ciudadanos estos cuerpos armados para entrar en combate ante la necesidad de defender la ciudad. Gracias a estas reglas se organizaron los cuerpos milicianos divididos por castas y orígenes. Esta organización permitió reconquistar la ciudad y defenderla cuando el Imperio Británico intentó invadirla. |
+| [[file:imagenes/institucionCabildo.jpg]]                                                                        |
+
 
 *** Secuencia: Mariano moreno, vida obra y legado.
