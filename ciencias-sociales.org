@@ -168,44 +168,48 @@ El objetivo específico de la secuencia didáctica es que los alumnos conozcan l
   - Identifiquen y comprendan las relaciones sociales que vinculan las historias de los individuos con la historia de la sociedad.
   - Analicen distintos tipos de fuentes para la reconstrucción de la biografía de Moreno y elaboren conclusiones propias.
 - Secuencia:
-  1. Entre todos completaremos la primer columna de este cuadro
+
+
+Entre todos completaremos la primer columna de este cuadro
+
   | Qué sabemos de Mariano Moreno | Qué aprendimos sobre Mariano Moreno |
   |-------------------------------+-------------------------------------|
   |                               |                                     |
-  1. Mirar el siguiente video sobre *Mariano Moreno* que fue parte de la campaña de difusión “200 años Bicentenario Argentino”, emitida por televisión en 2010.
+  
+1. Mirar el siguiente video sobre *Mariano Moreno* que fue parte de la campaña de difusión “200 años Bicentenario Argentino”, emitida por televisión en 2010.
    <iframe width="420" height="315" src="https://www.youtube.com/embed/bJdI58itDy8" frameborder="0" allowfullscreen></iframe>
-  2. Conversar entre todos sobre las siguientes cuestiones que plantean las palabras de Mariano Moreno:
-     - Qué ocurre cuando “el interés privado se prefiere al bien general”.
-     - El concepto de libertad de los pueblos y su relación con la noción de igualdad.
-     - La vigencia de las ideas de Moreno en la actualidad.
-     - Registren por escrito las conclusiones del debate.
-  3. Organizados en grupos de distintos grupos de lectura:
-     - Un grupo lea el siguiente texto sobre “[[http://www.educ.ar/dinamico/UnidadHtml__get__897dc00c-c84a-11e0-8262-e7f760fda940/anexo1.htm][la muerte de Mariano Moreno]]”.
-     - Con sus compañerxs, analicen el texto y discutan sobre esta cuestión:
-     - ¿Qué sugiere el texto acerca de las circunstancias en que murió Mariano Moreno?
-     - ¿Cómo podría interpretarse dicha muerte en el contexto de los enfrentamientos políticos entre las facciones que participaron en la Revolución de Mayo de 1810?
-     - Registren las respuestas en sus cuadernos.
-  4. El otro grupo lea la [[http://www.educ.ar/dinamico/UnidadHtml__get__897dc00c-c84a-11e0-8262-e7f760fda940/anexo2.htm][carta de María Guadalupe Cuenca a su esposo Mariano Moreno]]. Fue escrita el 29 de julio de 1811, cuando Moreno ya había muerto en alta mar, pero sin que ella tuviese noticias de lo sucedido.
-     - Marquen y realicen comentarios mientras los leen y así obtener datos útiles para responder las siguientes preguntas:
-       a.¿Cómo se dirige Guadalupe a su esposo Mariano Moreno? ¿Cuáles son las primeras preocupaciones que ella manifiesta?
-       a. ¿Qué otras preocupaciones aquejan a Guadalupe?
-       b. ¿Qué conflictos políticos deja entrever el contenido de la carta?
-       d.Registren las respuestas en sus cuadernos.
-  5. Leer entre todos los siguientes fragmentos del “[[http://www.educ.ar/dinamico/UnidadHtml__get__897dc00c-c84a-11e0-8262-e7f760fda940/anexo3.htm][Plan revolucionario de operaciones]]”, encargado por la Primera Junta de Gobierno a su secretario, Mariano Moreno, a fin de establecer los cursos de acción que debía seguir el proceso revolucionario.
-     - Hacer marcas y comentarios mientras los leen y obtener datos útiles para responder las siguientes preguntas:
-       a. ¿Cómo clasifica Moreno a los individuos según su actitud frente a un gobierno?
-       b. ¿Qué política de atracción y control de los individuos sugiere Moreno para garantizar la victoria de la revolución?
-       c. ¿Qué sugerencias formula respecto de los cargos políticos del Estado? ¿Qué razones  argumenta?
-       d. ¿Qué sugiere respecto de la fidelidad hacia Fernando VII? ¿Qué razones argumenta?
-       e. ¿Cuál es el perfil de revolucionario que pueden trazar a partir de la lectura y el análisis de esta fuente histórica?
-       f. Registren las respuestas en sus cuadernos
-  6. Elaborar una reseña biográfica sobre Mariano Moreno.
-     - Ubicar al protagonista individual en el contexto del proceso histórico en el que actuó.
-     - Señalar cuáles fueron los valores que orientaron su lucha.
-     - Incluir una reflexión personal sobre cuál fue la marca que, según ustedes, dejó en la sociedad argentina.
-     - Completar la última columna del cuadro inicial
+2. Conversar entre todos sobre las siguientes cuestiones que plantean las palabras de Mariano Moreno:
+   - Qué ocurre cuando “el interés privado se prefiere al bien general”.
+   - El concepto de libertad de los pueblos y su relación con la noción de igualdad.
+   - La vigencia de las ideas de Moreno en la actualidad.
+   - Registren por escrito las conclusiones del debate.
+3. Organizados en grupos de distintos grupos de lectura:
+   - Un grupo lea el siguiente texto sobre “[[http://www.educ.ar/dinamico/UnidadHtml__get__897dc00c-c84a-11e0-8262-e7f760fda940/anexo1.htm][la muerte de Mariano Moreno]]”.
+   - Con sus compañerxs, analicen el texto y discutan sobre esta cuestión:
+   - ¿Qué sugiere el texto acerca de las circunstancias en que murió Mariano Moreno?
+   - ¿Cómo podría interpretarse dicha muerte en el contexto de los enfrentamientos políticos entre las facciones que participaron en la Revolución de Mayo de 1810?
+   - Registren las respuestas en sus cuadernos.
+4. El otro grupo lea la [[http://www.educ.ar/dinamico/UnidadHtml__get__897dc00c-c84a-11e0-8262-e7f760fda940/anexo2.htm][carta de María Guadalupe Cuenca a su esposo Mariano Moreno]]. Fue escrita el 29 de julio de 1811, cuando Moreno ya había muerto en alta mar, pero sin que ella tuviese noticias de lo sucedido.
+   - Marquen y realicen comentarios mientras los leen y así obtener datos útiles para responder las siguientes preguntas:
+     a.¿Cómo se dirige Guadalupe a su esposo Mariano Moreno? ¿Cuáles son las primeras preocupaciones que ella manifiesta?
+     a. ¿Qué otras preocupaciones aquejan a Guadalupe?
+     b. ¿Qué conflictos políticos deja entrever el contenido de la carta?
+     d.Registren las respuestas en sus cuadernos.
+5. Leer entre todos los siguientes fragmentos del “[[http://www.educ.ar/dinamico/UnidadHtml__get__897dc00c-c84a-11e0-8262-e7f760fda940/anexo3.htm][Plan revolucionario de operaciones]]”, encargado por la Primera Junta de Gobierno a su secretario, Mariano Moreno, a fin de establecer los cursos de acción que debía seguir el proceso revolucionario.
+   - Hacer marcas y comentarios mientras los leen y obtener datos útiles para responder las siguientes preguntas:
+     a. ¿Cómo clasifica Moreno a los individuos según su actitud frente a un gobierno?
+     b. ¿Qué política de atracción y control de los individuos sugiere Moreno para garantizar la victoria de la revolución?
+     c. ¿Qué sugerencias formula respecto de los cargos políticos del Estado? ¿Qué razones  argumenta?
+     d. ¿Qué sugiere respecto de la fidelidad hacia Fernando VII? ¿Qué razones argumenta?
+     e. ¿Cuál es el perfil de revolucionario que pueden trazar a partir de la lectura y el análisis de esta fuente histórica?
+     f. Registren las respuestas en sus cuadernos
+6. Elaborar una reseña biográfica sobre Mariano Moreno.
+   - Ubicar al protagonista individual en el contexto del proceso histórico en el que actuó.
+   - Señalar cuáles fueron los valores que orientaron su lucha.
+   - Incluir una reflexión personal sobre cuál fue la marca que, según ustedes, dejó en la sociedad argentina.
+   - Completar la última columna del cuadro inicial
 
 
 * Footnotes
 
-[fn:1]Adaptada de [[http://www.educ.ar/sitios/educar/recursos/ver?id=14760&referente=docentes][Mariano Moreno, un revolucionario de Mayo]]
+[fn:1] Adaptada de [[http://www.educ.ar/sitios/educar/recursos/ver?id=14760&referente=docentes][Mariano Moreno, un revolucionario de Mayo]]
