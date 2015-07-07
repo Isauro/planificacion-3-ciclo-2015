@@ -1,5 +1,5 @@
 <div id="table-of-contents">
-<h2>Índice de contenidos</h2>
+<h2>Índice</h2>
 <div id="text-table-of-contents">
 <ul>
 <li><a href="#orgheadline9">1. Planificaciones de Ciencias Sociales</a>
