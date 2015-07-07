@@ -1,5 +1,5 @@
 <div id="table-of-contents">
-<h2>Índice</h2>
+<h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
 <li><a href="#orgheadline9">1. Planificaciones de Ciencias Sociales</a>
@@ -340,7 +340,7 @@ El objetivo específico de la secuencia didáctica es que los alumnos conozcan l
 
 1.  Secuencia:
 
-    1.  Entre todos completaremos la primer columna de este cuadro
+    Entre todos completaremos la primer columna de este cuadro
     
     <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
     
@@ -397,6 +397,7 @@ El objetivo específico de la secuencia didáctica es que los alumnos conozcan l
             -   Ubicar al protagonista individual en el contexto del proceso histórico en el que actuó.
             -   Señalar cuáles fueron los valores que orientaron su lucha.
             -   Incluir una reflexión personal sobre cuál fue la marca que, según ustedes, dejó en la sociedad argentina.
+            -   Completar la última columna del cuadro inicial
 
 <div id="footnotes">
 <h2 class="footnotes">Footnotes: </h2>

@@ -168,8 +168,10 @@ El objetivo específico de la secuencia didáctica es que los alumnos conozcan l
   - Identifiquen y comprendan las relaciones sociales que vinculan las historias de los individuos con la historia de la sociedad.
   - Analicen distintos tipos de fuentes para la reconstrucción de la biografía de Moreno y elaboren conclusiones propias.
 
-**** Secuencia: 
-1. Entre todos completaremos la primer columna de este cuadro
+**** Secuencia:
+Entre todos completaremos la primer columna de este cuadro
+
+
 
 | Qué sabemos de Mariano Moreno | Qué aprendimos sobre Mariano Moreno |
 |-------------------------------+-------------------------------------|
@@ -208,6 +210,7 @@ El objetivo específico de la secuencia didáctica es que los alumnos conozcan l
       - Ubicar al protagonista individual en el contexto del proceso histórico en el que actuó.
       - Señalar cuáles fueron los valores que orientaron su lucha.
       - Incluir una reflexión personal sobre cuál fue la marca que, según ustedes, dejó en la sociedad argentina.
+      - Completar la última columna del cuadro inicial
 
 
 * Footnotes
