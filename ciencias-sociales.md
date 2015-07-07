@@ -1,5 +1,5 @@
 <div id="table-of-contents">
-<h2>Índice</h2>
+<h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
 <li><a href="#orgheadline8">1. Planificaciones de Ciencias Sociales</a>
@@ -366,9 +366,9 @@ Entre todos completaremos la primer columna de este cuadro
 
 1.  Mirar el siguiente [video sobre **Mariano Moreno**](https://www.youtube.com/watch?v=bJdI58itDy8) que fue parte de la campaña de difusión “200 años Bicentenario Argentino”, emitida por televisión en 2010.
 
-\#+BEGIN<sub>SRC</sub> html
+<html>
    <iframe width="420" height="315" src="<https://www.youtube.com/embed/bJdI58itDy8>" frameborder="0" allowfullscreen></iframe>
-\\#+BEGIN<sub>SRC</sub>
+</html>
 
 1.  Conversar entre todos sobre las siguientes cuestiones que plantean las palabras de Mariano Moreno:
     -   Qué ocurre cuando “el interés privado se prefiere al bien general”.
