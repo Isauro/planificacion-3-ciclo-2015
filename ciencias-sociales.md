@@ -1,18 +1,18 @@
 <div id="table-of-contents">
-<h2>Table of Contents</h2>
+<h2>ńdice</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgheadline9">1. Planificaciones de Ciencias Sociales</a>
+<li><a href="#orgheadline8">1. Planificaciones de Ciencias Sociales</a>
 <ul>
 <li><a href="#orgheadline4">1.1. Secuencia Ciudadanía</a>
 <ul>
 <li><a href="#orgheadline3">1.1.1. clase Nº 1</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline8">1.2. Secuencia De la Revolución de Mayo a la Independencia</a>
+<li><a href="#orgheadline7">1.2. Secuencia De la Revolución de Mayo a la Independencia</a>
 <ul>
 <li><a href="#orgheadline5">1.2.1. Secuencia: Recorrido virtual por el Museo Histórico del Cabildo.</a></li>
-<li><a href="#orgheadline7">1.2.2. Secuencia: Mariano Moreno, vida obra y legado.</a></li>
+<li><a href="#orgheadline6">1.2.2. Secuencia: Mariano Moreno, vida obra y legado.</a></li>
 </ul>
 </li>
 </ul>
@@ -21,7 +21,7 @@
 </div>
 </div>
 
-# Planificaciones de Ciencias Sociales<a id="orgheadline9"></a>
+# Planificaciones de Ciencias Sociales<a id="orgheadline8"></a>
 
 ## Secuencia Ciudadanía<a id="orgheadline4"></a>
 
@@ -103,7 +103,7 @@ Pueden realizar una línea de tiempo para ordenar los hechos históricos que se 
     Cuadernillo para docentes “Voto a los 16. Democracia, ciudadanía y participación.”
     Ministerio de Educación de la Nación
 
-## Secuencia De la Revolución de Mayo a la Independencia<a id="orgheadline8"></a>
+## Secuencia De la Revolución de Mayo a la Independencia<a id="orgheadline7"></a>
 
 -   Que queremos que lxs estudiantes:
     -   Desarrollen cierta perspectiva histórica.
@@ -326,7 +326,7 @@ Pueden realizar una línea de tiempo para ordenar los hechos históricos que se 
 
 1.  Cada grupo repondrá lo que contestó.
 
-### Secuencia: Mariano Moreno, vida obra y legado.<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup><a id="orgheadline7"></a>
+### Secuencia: Mariano Moreno, vida obra y legado.<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup><a id="orgheadline6"></a>
 
 El objetivo específico de la secuencia didáctica es que los alumnos conozcan la historia de uno de los protagonistas de la Revolución de Mayo, comprendan las motivaciones que llevaron a Mariano Moreno a idear un “Plan Revolucionario de Operaciones”.
 
@@ -337,10 +337,8 @@ El objetivo específico de la secuencia didáctica es que los alumnos conozcan l
     -   Reflexionen acerca de la excepcionalidad de la época en que actuó Moreno.
     -   Identifiquen y comprendan las relaciones sociales que vinculan las historias de los individuos con la historia de la sociedad.
     -   Analicen distintos tipos de fuentes para la reconstrucción de la biografía de Moreno y elaboren conclusiones propias.
-
-1.  Secuencia:
-
-    Entre todos completaremos la primer columna de este cuadro
+-   Secuencia:
+    1.  Entre todos completaremos la primer columna de este cuadro
     
     <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
     
@@ -375,29 +373,29 @@ El objetivo específico de la secuencia didáctica es que los alumnos conozcan l
     3.  Organizados en grupos de distintos grupos de lectura:
         -   Un grupo lea el siguiente texto sobre “[la muerte de Mariano Moreno](http://www.educ.ar/dinamico/UnidadHtml__get__897dc00c-c84a-11e0-8262-e7f760fda940/anexo1.htm)”.
         -   Con sus compañerxs, analicen el texto y discutan sobre esta cuestión:
-            -   ¿Qué sugiere el texto acerca de las circunstancias en que murió Mariano Moreno?
-            -   ¿Cómo podría interpretarse dicha muerte en el contexto de los enfrentamientos políticos entre las facciones que participaron en la Revolución de Mayo de 1810?
-            -   Registren las respuestas en sus cuadernos.
-        -   El otro grupo lea la [carta de María Guadalupe Cuenca a su esposo Mariano Moreno](http://www.educ.ar/dinamico/UnidadHtml__get__897dc00c-c84a-11e0-8262-e7f760fda940/anexo2.htm). Fue escrita el 29 de julio de 1811, cuando Moreno ya había muerto en alta mar, pero sin que ella tuviese noticias de lo sucedido.
-            -   Marquen y realicen comentarios mientras los leen y así obtener datos útiles para responder las siguientes preguntas:
-                a.¿Cómo se dirige Guadalupe a su esposo Mariano Moreno? ¿Cuáles son las primeras preocupaciones que ella manifiesta?
-                1.  ¿Qué otras preocupaciones aquejan a Guadalupe?
-                2.  ¿Qué conflictos políticos deja entrever el contenido de la carta?
-                
-                d.Registren las respuestas en sus cuadernos.
-    4.  Leer entre todos los siguientes fragmentos del “[Plan revolucionario de operaciones](http://www.educ.ar/dinamico/UnidadHtml__get__897dc00c-c84a-11e0-8262-e7f760fda940/anexo3.htm)”, encargado por la Primera Junta de Gobierno a su secretario, Mariano Moreno, a fin de establecer los cursos de acción que debía seguir el proceso revolucionario.
-        1.  Hacer marcas y comentarios mientras los leen y obtener datos útiles para responder las siguientes preguntas:
+        -   ¿Qué sugiere el texto acerca de las circunstancias en que murió Mariano Moreno?
+        -   ¿Cómo podría interpretarse dicha muerte en el contexto de los enfrentamientos políticos entre las facciones que participaron en la Revolución de Mayo de 1810?
+        -   Registren las respuestas en sus cuadernos.
+    4.  El otro grupo lea la [carta de María Guadalupe Cuenca a su esposo Mariano Moreno](http://www.educ.ar/dinamico/UnidadHtml__get__897dc00c-c84a-11e0-8262-e7f760fda940/anexo2.htm). Fue escrita el 29 de julio de 1811, cuando Moreno ya había muerto en alta mar, pero sin que ella tuviese noticias de lo sucedido.
+        -   Marquen y realicen comentarios mientras los leen y así obtener datos útiles para responder las siguientes preguntas:
+            a.¿Cómo se dirige Guadalupe a su esposo Mariano Moreno? ¿Cuáles son las primeras preocupaciones que ella manifiesta?
+            1.  ¿Qué otras preocupaciones aquejan a Guadalupe?
+            2.  ¿Qué conflictos políticos deja entrever el contenido de la carta?
+            
+            d.Registren las respuestas en sus cuadernos.
+    5.  Leer entre todos los siguientes fragmentos del “[Plan revolucionario de operaciones](http://www.educ.ar/dinamico/UnidadHtml__get__897dc00c-c84a-11e0-8262-e7f760fda940/anexo3.htm)”, encargado por la Primera Junta de Gobierno a su secretario, Mariano Moreno, a fin de establecer los cursos de acción que debía seguir el proceso revolucionario.
+        -   Hacer marcas y comentarios mientras los leen y obtener datos útiles para responder las siguientes preguntas:
             1.  ¿Cómo clasifica Moreno a los individuos según su actitud frente a un gobierno?
             2.  ¿Qué política de atracción y control de los individuos sugiere Moreno para garantizar la victoria de la revolución?
             3.  ¿Qué sugerencias formula respecto de los cargos políticos del Estado? ¿Qué razones  argumenta?
             4.  ¿Qué sugiere respecto de la fidelidad hacia Fernando VII? ¿Qué razones argumenta?
             5.  ¿Cuál es el perfil de revolucionario que pueden trazar a partir de la lectura y el análisis de esta fuente histórica?
             6.  Registren las respuestas en sus cuadernos
-        2.  Elaborar una reseña biográfica sobre Mariano Moreno.
-            -   Ubicar al protagonista individual en el contexto del proceso histórico en el que actuó.
-            -   Señalar cuáles fueron los valores que orientaron su lucha.
-            -   Incluir una reflexión personal sobre cuál fue la marca que, según ustedes, dejó en la sociedad argentina.
-            -   Completar la última columna del cuadro inicial
+    6.  Elaborar una reseña biográfica sobre Mariano Moreno.
+        -   Ubicar al protagonista individual en el contexto del proceso histórico en el que actuó.
+        -   Señalar cuáles fueron los valores que orientaron su lucha.
+        -   Incluir una reflexión personal sobre cuál fue la marca que, según ustedes, dejó en la sociedad argentina.
+        -   Completar la última columna del cuadro inicial
 
 <div id="footnotes">
 <h2 class="footnotes">Footnotes: </h2>
