@@ -339,6 +339,28 @@ a. ¿Es cierto que si se duplica la cantidad de filas, la cantidad total de cer�
 b. Si se duplican la cantidad de filas y de cerámicas por fila, ¿Cuántas cerámicas se necesitan?
 c. Si la cantidad de filas y cerámicas por fila se reduce a la mitad ¿Es cierto que la cantidad total de cerámicas se reduce a la cuarta parte?
  
+*** Operaciones 2
+1. Cada cuadro muestra la relación entre cantidad de artículos y sus precios en pesos. Completalos
+   | Vasos   |  3 | 9 | 12 | 21 | 40 | 100 | 200 | 1000 |
+   | Precios | 12 |   |    |    |    |     |     |      |
+
+   | Platos  | 1 |  2 | 3 |    | 10 | 15 | 33 | 50 |
+   | Precios |   | 24 |   | 60 |    |    |    |    |
+
+   | Jarras  | 1 | 4 | 8 | 16 | 10 | 120 | 210 | 1000 |
+   | Precios | 8 |   |   |    |    |     |     |      |
+
+2. Para un casamiento se necesitan 196 botellas de vino. En cada caja se envasan 6 botellas
+
+   a. ¿Cuántas cajas se necesitan para completar el pedido?
+
+   b. ¿Cuantas botellas sobran?
+
+3. En una mañana de producción en la panadería se elaboraron 245 alfajores para envasarlos en cajas de 12. ¿Cuántas cajas completaron? ¿Quedaron alfajores sin envasar? ¿Cuántos?
+
+4. En una semana la panadería produjo 2.179 alfajores y los envasaron en cajas de 12 ¿Cuántas cajas completaron? ¿Quedaron alfajores sin envasar? ¿Cuántos?
+
+
 *** Bibliografía - Sitiografía:
 - Diseño Curricular de la Ciudad de Buenos Aires 
 - Matemática en sexto. Santillana
