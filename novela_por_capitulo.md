@@ -1,5 +1,6 @@
 <!-- toc -->
 # Novela por capítulo
+FALTA AGREGAR INFO
 ## Definir título
 - [Mas que humano, Theodore Sturgeon](https://www.epublibre.org/libro/detalle/1314)
 - [Juan Raro. Olaf Stapeldon](https://www.epublibre.org/libro/detalle/1157)
