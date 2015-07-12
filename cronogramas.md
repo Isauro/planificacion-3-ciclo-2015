@@ -12,7 +12,7 @@ El tiempo es una variable importante a tener en cuenta para planificar y ajustar
 ### Semana del 13 al 17 de Julio
 |Turno|Lunes|Martes|Miércoles|Jueves|Viernes|
 |:---|:----|:-----|:--------|:-----|:------|
-|TM  |Taller de Programación <hr> Matemáticas Operaciones II|Mariano Moreno|Actas año XIII e Independencia| Presentación Bibliobici|Reunión|
+|TM  |Taller de Programación <hr> [Matemáticas Operaciones II](operaciones2.md)|Mariano Moreno|Actas año XIII e Independencia| Presentación Bibliobici|Reunión|
 |TT  |Presentación Bibliobici| Belgrano| Actas año XIII e Independencia| Matemáticas Operaciones II| Reunión|
 
 ### Semana del 11 al 15 de Mayo TM y TT
