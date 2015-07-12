@@ -1,4 +1,4 @@
-<!-- toc -->
+<!-- markdown-toc -->
 # Novela por capítulo
 ## Definir título
 - [Mas que humano, Theodore Sturgeon](https://www.epublibre.org/libro/detalle/1314)
