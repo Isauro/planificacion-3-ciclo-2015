@@ -1,0 +1,6 @@
+{
+    "plugins": [
+        "git-toc-markdown"
+    ],
+    "pluginsConfig": {}
+}
