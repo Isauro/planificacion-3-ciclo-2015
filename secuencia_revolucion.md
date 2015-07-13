@@ -221,7 +221,7 @@
 
 1.  Cada grupo repondrá lo que contestó.
 
-### Secuencia: Mariano Moreno, vida obra y legado.<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup><a id="orgheadline6"></a>
+## Secuencia: Mariano Moreno, vida obra y legado.<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup><a id="orgheadline6"></a>
 
 El objetivo específico de la secuencia didáctica es que los alumnos conozcan la historia de uno de los protagonistas de la Revolución de Mayo, comprendan las motivaciones que llevaron a Mariano Moreno a idear un “Plan Revolucionario de Operaciones”.
 
