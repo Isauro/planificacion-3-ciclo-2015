@@ -1,6 +1,6 @@
 # Cronogramas
 
-El tiempo es una variable importante a tener en cuenta para planificar y ajustar los planes
+El tiempo es una variable importante a tener en cuenta para planificar y ajustar los planes.
 
 ## Tercer Bimestre 3/08 - 09/10
   - Semanas: 11
