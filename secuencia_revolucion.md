@@ -5,7 +5,7 @@
     -   ampliando las capacidades para describir, analizar, comprender situaciones del pasado a través de la experiencia de los que vivieron en esos momentos.
 -   Cómo nos vamos a aproximar a estos objetivos:
     -   Analizando los propósitos de algunas edificaciones que aun hoy existen en la ciudad como vestigios de un pasado lejano. (Museo Histórico del Cabildo)
-    -   Indagando en la vida y las ideas de Mariano Moreno y analizando el acta firmada el 9 de Julio de 1916. Entendida esta como parte del proceso proceso revolucionario iniciado el 25 de Mayo de 1810.
+    -   Indagando en la vida y las ideas de Mariano Moreno y analizando el acta firmada el 9 de Julio de 1916. Entendida esta como parte del proceso revolucionario iniciado el 25 de Mayo de 1810.
 
 ## Secuencia: Recorrido virtual por el Museo Histórico del Cabildo.<a id="orgheadline5"></a>
 
@@ -261,9 +261,7 @@ Entre todos completaremos la primer columna de este cuadro
 
 1.  Mirar el siguiente [video sobre **Mariano Moreno**](https://www.youtube.com/watch?v=bJdI58itDy8) que fue parte de la campaña de difusión “200 años Bicentenario Argentino”, emitida por televisión en 2010.
 
-<html>
-   <iframe width="420" height="315" src="<https://www.youtube.com/embed/bJdI58itDy8>" frameborder="0" allowfullscreen></iframe>
-</html>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/bJdI58itDy8" frameborder="0" allowfullscreen></iframe>
 
 1.  Conversar entre todos sobre las siguientes cuestiones que plantean las palabras de Mariano Moreno:
     -   Qué ocurre cuando “el interés privado se prefiere al bien general”.
