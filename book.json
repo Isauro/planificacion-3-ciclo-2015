@@ -1,6 +1,0 @@
-{
-    "plugins": [
-        "gitbook-plugin-toc"
-    ],
-    "pluginsConfig": {}
-}
