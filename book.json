@@ -2,10 +2,5 @@
     "plugins": [
         "gitbook-plugin-toc"
     ],
-    "pluginsConfig": {
-	 "toc": {
-            "addClass": true,
-            "className": "toc"
-         }
-}
+    "pluginsConfig": {}
 }
