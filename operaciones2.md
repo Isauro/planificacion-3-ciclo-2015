@@ -1,3 +1,5 @@
+# Operaciones II
+
 1.  Cada cuadro muestra la relación entre cantidad de artículos y sus precios en pesos. Completalos
     
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
