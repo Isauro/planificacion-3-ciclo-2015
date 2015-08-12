@@ -14,4 +14,5 @@
    * [Proyecto Bibliobici](bibliobici.md)
 * [Ciencias Sociales](ciencias-sociales.md)
    * [Secuencia revolucion](secuencia_revolucion.md)
+   * [Secuencia San Martín](sanMartin.md)
 * [Ciencias Naturales](ciencias_naturales.md)
