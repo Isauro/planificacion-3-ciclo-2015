@@ -5,6 +5,8 @@ El tiempo es una variable importante a tener en cuenta para planificar y ajustar
 ## Tercer Bimestre 3/08 - 09/10
   - Semanas: 11
 
+### Semana del 28 al 2 de octubre
+- El jueves o miércoles nos encontramos con Nivelación a compartir poesías, una suerte de desayuno literario
 ### Semana 10 al 14 de Agosto
 |Turno|Lunes|Martes|Miércoles|Jueves|Viernes|
 |:---|:----|:-----|:--------|:-----|:------|
